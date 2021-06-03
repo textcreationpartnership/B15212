@@ -1,0 +1,2217 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mottects or Graue chamber musique Containing songs of fiue parts of seuerall sorts, some ful, and some verse and chorus. But all fit for voyces and vials, with an organ part; which for want of organs, may be performed on virginals, base-lute, bandora, or Irish harpe. Also, a mourning song of sixe parts for the death of the late Right Honorable Sir Fulke Greuil ... Composed according to the rules of art, by M.P. Batcheler of Musique.</title>
+            <author>Peerson, Martin, 1571?-1651.</author>
+         </titleStmt>
+         <extent>Approx. 128KB of XML-encoded text transcribed from 92 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B15212</idno><idno type="EEBO-CITATION">99845921</idno>
+  <idno type="VID">177256</idno>
+  <idno type="EEBO-PROQUEST">2240929492</idno>
+  <idno type="STC">STC 19552</idno>
+  <idno type="STC">ESTC S110365</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99845921e"/>
+            <note>(EEBO-TCP ; phase 2, no. B15212)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 177256)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 969:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mottects or Graue chamber musique Containing songs of fiue parts of seuerall sorts, some ful, and some verse and chorus. But all fit for voyces and vials, with an organ part; which for want of organs, may be performed on virginals, base-lute, bandora, or Irish harpe. Also, a mourning song of sixe parts for the death of the late Right Honorable Sir Fulke Greuil ... Composed according to the rules of art, by M.P. Batcheler of Musique.</title>
+                  <author>Peerson, Martin, 1571?-1651.</author>
+                  <author>Greville, Fulke, Baron Brooke, 1554-1628.</author>
+               </titleStmt>
+               <extent>[184] p. : music  </extent>
+               <publicationStmt>
+                  <publisher>Printed by William Stansby,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1630.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: Martin Peerson.</note>
+                  <note>With lyrics by Fulke Greville.</note>
+                  <note>Six partbooks, each with separate dated title page and register. At head of title, part 1, "Cantus."; part 2, "Altus."; part 3, "Tenor."; part 4, "Contratenor."; part 5, "Bassus."; part 6, "Organ part.".</note>
+                  <note>Signatures: [A]²  B-D⁴; [A]²  B-D⁴ E² ; [A]²  B-D⁴; [A]²  B-D⁴; [A]²  B-D⁴; [A]⁴ B-E⁴.</note>
+                  <note>The last leaf is blank.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Motets --  Early works to 1800.</term>
+               <term type="topical_term">Part-songs, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Susie Lorand </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:177256:1"/>
+                  <pb facs="tcp:177256:1"/>
+                  <p>CANTVS.</p>
+                  <p>MOTTECTS OR GRAVE CHAMBER MVSIQVE.</p>
+                  <p>Containing Songs of fiue parts of seue<g ref="char:EOLhyphen"/>rall sorts, some ful, and some Verse and Chorus. But all fit for Ʋoyces and Ʋials, with an Organ Part; which for want of Organs, may be performed on VIRGINALS, BASE-LVTE, BANDORA, or IRISH HARPE.</p>
+                  <p>ALSO, A Mourning Song of sixe parts for the Death of the late Right Honorable Sir <hi>FVLKE GREVIL,</hi> Knight of the Honourable order of the Bath, Lord Brooke, Baron Brooke of Beauchamps-Court in the Countie of Warwicke, and of his Maiesties most honourable priuie Councell, &amp;c.</p>
+                  <p>Composed according to the Rules of Art, By <hi>M. P.</hi> Batcheler of MVSIQVE.</p>
+                  <p>LONDON, Printed by WILLIAM STANSBY. 1630.</p>
+               </div>
+               <div type="illustration">
+                  <pb facs="tcp:177256:2"/>
+                  <p>
+                     <figure>
+                        <figDesc>crest presumably of Robert Greville (1608-1643), Baron Brooke of Beauchamps-Court, Warwick</figDesc>
+                        <head>VIX EA NOSTRA VOCO</head>
+                     </figure>
+                  </p>
+               </div>
+               <div type="dedication">
+                  <pb facs="tcp:177256:2"/>
+                  <head>TO THE RIGHT HONOV<g ref="char:EOLhyphen"/>RABLE, ROBERT LORD Brooke Baron Brooke of Beauchamps-Court in the Countie of WARWICKE.</head>
+                  <opener>
+                     <salute>Right Honourable my singuler good Lord,</salute>
+                  </opener>
+                  <p>
+                     <seg rend="decorInit">T</seg>He words which I make hold at present to publish in Musicall compositions, were recommended by your Noble Predeces<g ref="char:EOLhyphen"/>sor; and of right belong vnto you Lord<g ref="char:EOLhyphen"/>ship, because inheritor, no lesse of his sin<g ref="char:EOLhyphen"/>guler Vertues, then Honours, and Pa<g ref="char:EOLhyphen"/>tron (as his Lordship euer was) both of my Person; and Profession; the best Ma<g ref="char:EOLhyphen"/>sters whereof, will alwayes record his Lord<g ref="char:EOLhyphen"/>ships most generous affections, and incouragements: My selfe (vnder reformation) may rise one Note higher, and presume; that if that blessed spirit of his now in heauen) holdeth any memorie and intelligence of hu<g ref="char:EOLhyphen"/>maine actions, it is of that heauen vpon earth, which it found here, in Musicke and Harmonicall proportions, the being whereof is beyond Mortalitie and regulates the whole frame of nature in her being and Motions. Wherefore your Lordship will be pleased to take in good part the worke it selfe, as also the feruent desires I haue to doe (Both) your Lordships that duetie and seruice which I owe, and shall euer heartily acknowledge, being</p>
+                  <closer>
+                     <signed>Your Lordships most humble and most faithfull Seruant, MARTIN PEERSON.</signed>
+                  </closer>
+               </div>
+               <div type="table_of_contents">
+                  <pb facs="tcp:177256:3"/>
+                  <head>THE TABLE.</head>
+                  <list>
+                     <item>
+                        <hi>1.</hi> LOue the delight. <hi>1.</hi> part.</item>
+                     <item>
+                        <hi>2.</hi> Beautie. <hi>2.</hi> part.</item>
+                     <item>
+                        <hi>3.</hi> Time. <hi>3.</hi> part.</item>
+                     <item>
+                        <hi>4.</hi> More then most faire. <hi>1.</hi> part.</item>
+                     <item>
+                        <hi>5.</hi> Thou Window. <hi>2.</hi> part.</item>
+                     <item>
+                        <hi>6</hi> You little Starres. <hi>1.</hi> part.</item>
+                     <item>
+                        <hi>7</hi> And thou O Loue. <hi>2.</hi> part.</item>
+                     <item>
+                        <hi>8</hi> O Loue. <hi>1.</hi> part.</item>
+                     <item>
+                        <hi>9</hi> If I by Nature. <hi>2.</hi> part.</item>
+                     <item>
+                        <hi>10 Cupid.</hi>
+                     </item>
+                     <item>
+                        <hi>11</hi> Loue.</item>
+                     <item>
+                        <hi>12</hi> Selfe pitties teares.</item>
+                     <item>
+                        <hi>13</hi> Was euer man.</item>
+                     <item>
+                        <hi>14</hi> O false and treacherous. <hi>2.</hi> Bases.</item>
+                     <item>
+                        <hi>15</hi> Man dreame no more. <hi>1.</hi> part.</item>
+                     <item>
+                        <hi>16.</hi> The floud. <hi>2.</hi> part.</item>
+                     <item>
+                        <hi>17</hi> Who trusts for trust. <hi>1.</hi> part.</item>
+                     <item>
+                        <hi>18</hi> Who thinkes. <hi>2.</hi> part.</item>
+                     <item>
+                        <hi>19</hi> Man dreame no more</item>
+                     <item>
+                        <hi>20</hi> Farewell sweet Boy.</item>
+                     <item>
+                        <hi>21</hi> Vnder a throne.</item>
+                     <item>
+                        <hi>22</hi> Where shall a sorrow. <hi>1.</hi> part.</item>
+                     <item>
+                        <hi>23</hi> Dead. <hi>2.</hi> part.</item>
+                     <item>
+                        <hi>24</hi> Where shall a sorrow. <hi>1.</hi> part. of <hi>6.</hi>
+                     </item>
+                     <item>
+                        <hi>25</hi> Dead. <hi>2.</hi> part. of <hi>6.</hi>
+                     </item>
+                  </list>
+               </div>
+            </front>
+            <body>
+               <div n="1" type="song">
+                  <pb facs="tcp:177256:3"/>
+                  <head>Of <hi>5.</hi> first Part. <hi>1</hi> Cantus.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">L</seg>Oue the delight of all well thinking minds loue the delight {repeat} Delight the fruit of vertue deerely lou'd delight the fruit of vertue deerely lou'd. The highest good, vertue the highest high╌est good vertue the high╌est good, that rea╌son finds, reason the fire where in mens thoughts bee proou'd, wherein men; thoughts bee proou'd, are from the world, by natures power bee reft and in one creature, for her glorie left, and in one creature for her glorie left, for her glorie left, and in one creature for her glorie left, and in one creature for her glo╌rie left for her glorie left.</p>
+               </div>
+               <div n="2" type="song">
+                  <pb facs="tcp:177256:4"/>
+                  <head>Of <hi>5.</hi> second Part. <hi>2</hi> Cantus.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">B</seg>Eautie her couer is the eyes true pleasure in honours fame shee liu's, in honours fame in honours fame shee liu's, in honours f. {repeat} In honours fame {repeat} The eares sweete Musicke, sweete, sweete Musicke, from her true measure, Excesse of wonder growes from her true measure, her worth is pas╌si╌ons wound, her worth is pas╌si╌ons wound passions wound and passions Physicke and passions Physicke, Cleere springs of wisedome flow Cleere springs of wisedome {repeat} and deeds men know which Imagd in her words and deeds men know in her words and deeds men know, men know in words and deeds men know men know.</p>
+               </div>
+               <div n="3" type="song">
+                  <pb facs="tcp:177256:4"/>
+                  <head>Of <hi>5.</hi> third Part. <hi>3</hi> Cantu<gap reason="illegible" resp="#uom" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">T</seg>Ime fayne would stay that shee might neuer le<gap reason="illegible" resp="#uom" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e her, Death craues of heauen that shee may not bereaue her, The heauens know their owne, the heauens know their owne and doe maintaine her, Delight loue reason vertue let it bee to set all woemen light but onely shee, Delight loue reason vertue let it bee, to set all woemen light but onely shee one╌ly shee.</p>
+               </div>
+               <div n="4" type="song">
+                  <pb facs="tcp:177256:5"/>
+                  <head>Of <hi>5.</hi> first Part <hi>4</hi> Cantus.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">M</seg>Ore then most faire full of all heauenly fire, all heauenly fire kindled aboue, kindled aboue, to shew the makers glorie, to shew the {repeat} Beauties first borne, beauties first borne. In whom all powers conspire, To write the Graces life, and muses storie, If in my heart my heart all Nymphes else bee defaced, all Nymphes else {repeat} bee defaced, honour the shrine, honour the {repeat} honour the {repeat} honour the shrine, where you alone are placed are pla╌ced, you alone are placed. If in my heart.</p>
+               </div>
+               <div n="5" type="song">
+                  <pb facs="tcp:177256:5"/>
+                  <head>Of <hi>5.</hi> second Part. <hi>5</hi> Cantus.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">T</seg>Hou window of the skie, and pride of spirits, true charracter of honour in perfection, thou heauenly creature, Iudge of earthly merrits and glorious pryson, of mens pure affection, of mens pure {repeat} If in my heart my heart all Nymphes else bee defaced, All Nymphes {repeat} bee defaced, honour the shrine, honour {repeat} honour the shrine honour {repeat} where you alone are placed are pla╌ced, you alone are placed alone are placed.</p>
+               </div>
+               <div n="6" type="song">
+                  <pb facs="tcp:177256:6"/>
+                  <head>Of <hi>5.</hi> first Part <hi>6</hi> Cantus.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">Y</seg>Ou little starres that liue in skies In whose Aspect conioyned lyes ioye to bee likened to those eyes for when you force thoughts from aboue those o╌uer o╌uer rule your force by loue.</p>
+               </div>
+               <div n="7" type="song">
+                  <pb facs="tcp:177256:6"/>
+                  <head>Of <hi>5.</hi> second Part. <hi>7</hi> Cantus.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">A</seg>Nd thou O loue, And made them Saints, and made them Saints of beauties skies, where ioyes are shadowes, of perfection for I haue vow'd in strangest fashion, in strangest fashion and neuer neuer {repeat} {repeat} seeke, and neuer neuer {repeat} {repeat} {repeat} {repeat} seeke compassion not by worth not by worth for I haue vow'd In strangest fashion, to loue, and neuer neuer {repeat} {repeat} seeke compassion seeke com╌passi╌on.</p>
+               </div>
+               <div n="8" type="song">
+                  <pb facs="tcp:177256:7"/>
+                  <head>Of <hi>5.</hi> first Part. <hi>8</hi> Cantus.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">O</seg> Loue, O loue thou mortall speare O loue thou <gap reason="illegible" resp="#uom" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>tall speare of powers deuine, The Paradise of nature, the Paradise of nature, of nature in per╌fect╌ion what makes thee thus thy kingdome, thy kingdome vnder╌mine, vayleing thy glo╌ries, vayleing thy glories, vnder woes re╌fle╌cti╌on, Tyrrannie, tyrrannie, counsaile out of feare doth borrow, counsaile out of feare doth borrow counsaile out of feare {repeat} of feare doth borrow, To thinke her kingdome safe, to thinke her kingdome safe her kingdome safe in feare, in feare in feare and sorrow.</p>
+               </div>
+               <div n="9" type="song">
+                  <pb facs="tcp:177256:7"/>
+                  <head>Of <hi>5.</hi> second Part. <hi>9</hi> Cantus.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">I</seg>F I by nature wonder and delight, and delight had not sworne, All my powers to worship thee, Iustly mine owne reuenge, Iustly mine {repeat} re╌ceiue I might, and see thee tyerante, suf╌fer tyrrannie, see thee thy selfe dispaire and sorrow bree╌ding breeding, vnder the wounds of woe and sorrow bleeding vnder the wounds of woe and sorrow bleeding, bleeding bleeding.</p>
+               </div>
+               <div n="10" type="song">
+                  <pb facs="tcp:177256:8"/>
+                  <head>Of <hi>5. 10</hi> Cantus.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <hi>
+                        <seg rend="decorInit">C</seg>Vpid</hi> my prettie boye leaue off thy crying, such rude denialls doe make children theeuish. What was it tell, that cruell honour chidden made daintie, made da. {repeat} to bee hidden are her fairebrests maide, daintie to bee hidden doth shee, make thee make faults, to make thee beaten. Is beauties beauties pride, in Innnocence betraying. Giue meeablow and shee shall play the child, and shee shall play the child with loue or sor╌row.</p>
+               </div>
+               <div n="11" type="song">
+                  <pb facs="tcp:177256:8"/>
+                  <head>Of <hi>5. 11</hi> Cantus.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">L</seg>Oue is the peace, End of the good end of the good perfections spirrit passed through hope A simple goodnesse which of the ioyes to come, which of the ioyes to come doe witnesse beare, which of the ioyes to come which of the I. {repeat} doth witnesse beare doth witnesse beare.</p>
+               </div>
+               <div n="12" type="song">
+                  <pb facs="tcp:177256:9"/>
+                  <head>Of <hi>5. 12</hi> Cantus.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">S</seg>Elfe pitties teares selfe pitties teares selfe pitt. {repeat} wherein my hope lyes drownd, sighes from thoughts, from thoughts fire where my desires lan╌guish lang╌uish, dispaire by humble loue, of beautie crownd of beautie crownd, furrows not worne by time, furrows not worne by time, but wheeles of anguish of anguish, Drie vp, smile ioye make smooth make smooth and see smile ioye make smooth and see, make smooth and see, furrow dispaires sighs, teares in beautie bee furrowes dispaires sighs, furrowes {repeat} furrows dispaires sighs, teares in beautie bee.</p>
+               </div>
+               <div n="13" type="song">
+                  <pb facs="tcp:177256:9"/>
+                  <head>Of <hi>5. 13</hi> Cantus.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">W</seg>As euer man, The boye is sad and mellancholly growne, O sweete eyes, If these mad changes If these mad changes doe make children Gods, woemen and children, woemen and children, woemen and children are not farre at ods. If these.</p>
+               </div>
+               <div n="14" type="song">
+                  <pb facs="tcp:177256:10"/>
+                  <head>Of <hi>5. 14</hi> Cantus.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">O</seg> False, with bleere eyed opinion, Learne to see, truths feeble pittie pittie here, truths feeble pittie pittie here and barrennesse. with reason darst thou Iudge with reason darst thou Iudge the dey╌tie, and in thy flesh make bold to fashion it to fashion it. the flesh new borne which but, where faith is, where faith is, who therefore censures God with fleshly sprite, As well in time may wrap vp infinite.</p>
+               </div>
+               <div n="15" type="song">
+                  <pb facs="tcp:177256:10"/>
+                  <head>Of <hi>5.</hi> first Part. <hi>15</hi> Cantus.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">M</seg>An dreame no more, The state of Parradise or hels Eternall shade, and curious search, but eraftie sinnes delight for Gods workes are like him all In╌finite, and Curious search, but Craftie sinnes delight.</p>
+               </div>
+               <div n="16" type="song">
+                  <pb facs="tcp:177256:11"/>
+                  <head>Of <hi>5.</hi> second Part. <hi>16</hi> Cantus.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">T</seg>He flood that did, and all those types depart.</p>
+               </div>
+               <div type="song">
+                  <head>Of <hi>5.</hi> third Part.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">W</seg>Hen thou hast swept, when Gods Almight doth in thy flesh appeare For God doth onely goodnesse for God doth onely good<g ref="char:EOLhyphen"/>nesse comprehend, knowes what was first, knowes what was first, knowes what {repeat} and what shall bee the end.</p>
+               </div>
+               <div n="17" type="song">
+                  <pb facs="tcp:177256:11"/>
+                  <head>Of <hi>5.</hi> first Part. <hi>17</hi> Cantus.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">W</seg>Ho trusts for trust who trusts {repeat} or hopes of loue for loue loue for loue, or hopes of loue loue for loue or who belou'd In <hi>Cupids</hi> lawes doth glo╌rie in <hi>Cupids</hi> law {repeat} or vowes not to remooue, who ioyes in vowes and vowes not to remooue remooue and vowes not to remooue, hath not beene made sorrie who by this light God hath not beene made sorrie, let him see mee, let him see mee Eclipsed from my Sonne, with shadowes of an Earth, quite ouer╌run who by this light God hath not beene made sorrie, hath not beene {repeat} let him see mee, let him see mee Eclipsed from my Sonne with shadowes of an Earth, with shadowes of an earth quite ouer╌run with shadowes of {repeat} earth with shadowes of an earth, quite ouer╌runne quite ouer╌runne.</p>
+               </div>
+               <div n="18" type="song">
+                  <pb facs="tcp:177256:12"/>
+                  <head>Of <hi>5.</hi> second Part. <hi>18</hi> Cantus.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">W</seg>Ho thinks that sorrow felt, desires hid de╌sires hid desires hidden, or humble faith with constant honour Armed, can keepe loue from the fruite from the fruite, can keepe loue {repeat} that is for bidden can keepe loue from the fruite that is forbidden forbidden, change I doe meane by no faith to be charmed change I doe meane by {repeat} change I doe meane by no faith to be charmed, looking on me, looking on mee, let him know let him know loues de<g ref="char:EOLhyphen"/>lights, let him know loues delights, are treasures hid in Caues, But kept with sprights let him know, loues delights are treasures hid in Caues, but kept with sprights, but kept with sprights. Let him know.</p>
+               </div>
+               <div n="19" type="song">
+                  <pb facs="tcp:177256:12"/>
+                  <head>Of <hi>5. 19</hi> Cantus.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">M</seg>An dreame no more of curious mysteries, as what was here before the world was made, before the world, was made the world was made The first mans life, the first {repeat} the state of Par╌radise, where heauen is, where heauen is, where hea. {repeat} where hea. {repeat} or hels eternall shade, or hels eternall shade, For Gods workes are like him all Infinite, for Gods workes are like him all infinite and curious search and curious search but craftie sins delight but craftie sins delight, sins delight, for Gods workes are like him all Infi╌nite, for Gods workes are like him all Infinite, and curious search but craftie sinnes, craftie sinnes delight but craftie sinnes delight.</p>
+               </div>
+               <div n="20" type="song">
+                  <pb facs="tcp:177256:13"/>
+                  <head>Of <hi>5. 20</hi> Cantus.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">F</seg>Arewell, For to thy boyes play I gaue all my youth I gaue all my youth, Princes thoughts obseruing the child of paine and anguish, a chiefe deseruing, I in thy wanton visions ioyed to languish to languish I in thy wanton visions ioyed to languish. I bowed not thy Image for succession, Nor bound my bow to shoote reformed kindnesse, thy playes of hope and feare neere my confession the spectacles of my life, was thy blindnesse, the spectacles to my life was thy blindnesse. But <hi>Cupid</hi> now farewell, farewell, I will goe play mee with thoughts, that please mee lesse and lesse betray mee. But.</p>
+               </div>
+               <div n="21" type="song">
+                  <pb facs="tcp:177256:13"/>
+                  <head>Of <hi>5. 21</hi> Cantus.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">V</seg>Nder a Throne, I saw a virgine sit, the red and white rose, quartred in her face, starre of the North, an<gap reason="illegible" resp="#uom" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> for true gards to it Church Princes states all pointing out her Grace, all pointing out her Grace Church Princes states, all pointing out her Grace, The homage done her was not borne of wit, feare did admire, zeale tooke ambitions place, state in her eyes taught order order, how to fit, and fixe conclusions, vndeseruing mee Fortune c<gap reason="illegible" resp="#uom" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n here clayme nothing truely great, but that this P incely creature is her seate but that this Princely creature is her seate is her seate. Fortune can here.</p>
+               </div>
+               <div n="22" type="song">
+                  <pb facs="tcp:177256:14"/>
+                  <head>Of <hi>5.</hi> first Part. <hi>22</hi> Cantus.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">W</seg>Here shall a sorrow, No though thy <hi>Sidney</hi> had suruiu'd his friend suruiu'd his friend.</p>
+               </div>
+               <div n="23" type="song">
+                  <head>Second part. <hi>23</hi>
+                  </head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>Dead noble <hi>Brooke,</hi> wayling an old mans fate, an old mans fate, as if in pride and heate of youth, hee had vntimely dy'd.</p>
+               </div>
+               <div n="24" type="song">
+                  <pb facs="tcp:177256:14"/>
+                  <head>Of <hi>6.</hi> first Part. <hi>24</hi> Cantus.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">W</seg>Here shall a sorrow, great enough bee sought, for this sad ruine which the sates haue wrought, haue wrought, vnlesse the fates themselues should weepe, and wish their curblesse power, had beene controld in this for thy losse worthyest Lord no mourning eye, has flood enough, no mourning eye has flood enough no Muse nor E╌le╌gie, enough expression, to thy worth can lend. No though thy <hi>Sidney</hi> had suruiu'd his friend, no though thy <hi>Sidney</hi> had suruiu'd his friend.</p>
+               </div>
+               <div n="25" type="song">
+                  <pb facs="tcp:177256:15"/>
+                  <head>Of <hi>6.</hi> second Part. <hi>25</hi> Cantus.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">D</seg>Ead, Noble <hi>Brooke</hi> shall bee to vs a Name, of griefe and honour still of griefe and honour still, of griefe and honour still, whose deathlesse fame, such vertue purchast, as makes vs to bee vniust to Nature, vniust to nature, vniust to nature, vniust to nature, vniust to na╌ture in lamenting thee wayling an olde mans fate, as if in pride and heate of youth, hee had vntimely dy'd as if in pride, hee had vntimely vntimely dy'd.</p>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:177256:15"/>
+                  <p>ALTVS.</p>
+                  <p>MOTTECTS OR GRAVE CHAMBER MVSIQVE.</p>
+                  <p>Containing Songs of fiue parts of seue<g ref="char:EOLhyphen"/>rall sorts, some ful, and some Verse and Chorus.</p>
+                  <p>But all fit for Ʋoyces and Ʋials, with an Organ Part; which for want of Organs, may be performed on VIRGINALS, BASE-LVTE, BANDORA, or IRISH HARPE.</p>
+                  <p>ALSO, A Mourning Song of sixe parts for the Death of the late Right Honorable Sir <hi>FVLKE GREVIL,</hi> Knight of the Honourable order of the Bath, Lord Brooke, Baron Brooke of Beauchamps-Court in the Countie of Warwicke, and of his Maiesties most honourable priuie Councell, &amp;c.</p>
+                  <p>Composed according to the Rules of Art, By <hi>M. P.</hi> Batcheler of MVSIQVE.</p>
+                  <p>LONDON, Printed by WILLIAM STANSBY. 1630.</p>
+               </div>
+               <div type="illustration">
+                  <pb facs="tcp:177256:16"/>
+                  <p>
+                     <figure>
+                        <figDesc>crest presumably of Robert Greville (1608-1643), Baron Brooke of Beauchamps-Court, Warwick</figDesc>
+                        <head>VIX EA NOSTRA VOCO</head>
+                     </figure>
+                  </p>
+               </div>
+               <div type="dedication">
+                  <pb facs="tcp:177256:16"/>
+                  <head>TO THE RIGHT HONOV<g ref="char:EOLhyphen"/>RABLE, ROBERT LORD Brooke Baron Brooke of Beauchamps-Court in the Countie of WARWICKE.</head>
+                  <opener>
+                     <salute>Right Honourable my singuler good Lord,</salute>
+                  </opener>
+                  <p>
+                     <seg rend="decorInit">T</seg>He words which I make bold at present to publish in Musicall compositions, were recommended by your Noble Predeces<g ref="char:EOLhyphen"/>sor; and of right belong vnto your Lord<g ref="char:EOLhyphen"/>ship, because inheritor, no lesse of his sin<g ref="char:EOLhyphen"/>guler Vertues, then Honours, and Pa<g ref="char:EOLhyphen"/>tron (as his Lordship euer was) both of my Person; and Profession; the best Ma<g ref="char:EOLhyphen"/>sters whereof, will alwayes record his Lord<g ref="char:EOLhyphen"/>ships most generous affections, and incouragements: My selfe (vnder reformation) may rise one Note higher, and presume; that if that blessed spirit of his now in heauen) holdeth any memorie and intelligence of hu<g ref="char:EOLhyphen"/>maine actions, it is of that heauen vpon earth, which it found here, in Musicke and Harmonicall proportions, the being whereof is beyond Mortalitie and regulates the whole frame of nature in her being and Motions. Wherefore your Lordship will be pleased to take in good part the worke it selfe, as also the feruent desires I haue to doe (Both) your Lordships that duetie and seruice which I owe, and shall euer heartily acknowledge, being</p>
+                  <closer>
+                     <signed>Your Lordships most humble and most faithfull Seruant, MARTIN PEERSON.</signed>
+                  </closer>
+               </div>
+            </front>
+            <body>
+               <div n="1" type="song">
+                  <pb facs="tcp:177256:17"/>
+                  <pb facs="tcp:177256:17"/>
+                  <head>Of <hi>5.</hi> first Part. <hi>1</hi> Altus.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">L</seg>Oue the delight of all well thinking minds, loue the delight of all wel thinking minds, the fruite of vertue deerly lou'd, vertue the highest good, the highest good, vertue the highest good, the highest good, that rea╌son finds, reason the fire wherein mens thoughts, mens thoughts be proou'd, are from, are from the world by natures power bereft, by natures {repeat} and in one creature for her glorie left, and in one creature for her glorie left, and in one creature for her glorie left, and in one creature for her glorie left, and in one creature for her glorie left, for her glorie left.</p>
+               </div>
+               <div n="2" type="song">
+                  <pb facs="tcp:177256:18"/>
+                  <head>Of <hi>5.</hi> second Part. <hi>2</hi> Altus.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">B</seg>Eautie her couer, beautie her couer, the eyes true pleasure. In honours fame, shee liues in honours fame, in honours fame, in honours fame, shee liues in honours fame, shee liues, shee liues sweet, musicke, sweete, sweet musicke, Excesse of wonder growes from her, from her true measure, true measure, excesse of wonder growes from her true measure, her worth is passions wound, her worth is pa╌ssi╌ons wound, and passions Physicke, and passions Physicke. Cleere springs of wisdome flow from her true heart, cleere springs of wisdome flow, which Imag'd in her words and deedes, men know, men know, men {repeat} which Imag'd in her words and deedes, men know, men know her deedes, men know, men know.</p>
+               </div>
+               <div n="3" type="song">
+                  <pb facs="tcp:177256:18"/>
+                  <head>Of <hi>5.</hi> third Part. <hi>3</hi> Altus.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">T</seg>Ime faine would stay, that she might neuer leaue her, death craues of heauen that shee may not bereaue her, the heauens know their owne, the heauens know their owne, the heauens know cheir owne, and doe maintaine her. De╌light loue reason, vertue let it be, to set all woemen light but one╌ly shee. Delight loue reason vertue, let it bee to set all woemen light but onely shee.</p>
+               </div>
+               <div n="4" type="song">
+                  <pb facs="tcp:177256:19"/>
+                  <head>Of <hi>5.</hi> first Part. <hi>4</hi> Altus.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">M</seg>Ore then most faire, full of all heauenly heauenly fire, more then most faire, full of all heauenly fire, kindled aboue, kindled aboue, to shew the makers glorie, to shew the {repeat} Beauties first borne, beauties first borne, beauties {repeat} In whom all powers conspire, all powers conspire, to write the graces life, The graces life, and muses storie, and muses storie. If in my heart all Nymphes else bee de╌fa╌ced, defaced, all Nymphes else {repeat} All Nymphs else bee de╌fa╌ced, honour the shrine, honour {repeat} honour the shrine, honour {repeat} where you alone are placed, where you alone are placed. If in my heart.</p>
+               </div>
+               <div n="5" type="song">
+                  <pb facs="tcp:177256:19"/>
+                  <head>Of <hi>5.</hi> second Part. <hi>5</hi> Altus.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">T</seg>Hou window of the skie, and pride of spirits, true character of honour, in perfection, thou heauenly creature, of earthly merits and glorious prison, of mens pure affection. If in my heart all Nymphs else be defaced, de<g ref="char:EOLhyphen"/>faced, all Nymphes {repeat} all Nymphs else bee defaced, honor the shrine, honour {repeat} honour {repeat} honour the shrine, where you a lone are placed, where you a╌lone are placed, are placed. If in my:</p>
+               </div>
+               <div n="6" type="song">
+                  <pb facs="tcp:177256:20"/>
+                  <head>Of <hi>5.</hi> first Part. <hi>6</hi> Altus.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">Y</seg>Ou little starres that liue in skies, In whose Aspect conioyned is, Ioy to bee likened to those eyes. For when you force thoughts from aboue. Those o╌uer o╌uer rule your force by loue. Ioy to bee:</p>
+               </div>
+               <div n="7" type="song">
+                  <pb facs="tcp:177256:20"/>
+                  <head>Of <hi>5.</hi> second Part. <hi>7</hi> Altus.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">A</seg>Nd thou O loue, And made them Saints of beautie skies, of perfection, Not by worth, not {repeat} For I haue vow'd In strangest fashion, To loue, And neuer {repeat} {repeat} {repeat} seeke compassion, Compassion, For I haue vow'd, In strangest fashion, in strangest fashion, and ne╌uer ne╌uer {repeat} {repeat} seeke seeke Compassion, and neuer {repeat} {repeat} {repeat} {repeat} {repeat} seeke Com╌pas╌si╌on.</p>
+               </div>
+               <div n="8" type="song">
+                  <pb facs="tcp:177256:21"/>
+                  <head>Of <hi>5.</hi> first Part. <hi>8</hi> Altus.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">O</seg> Loue, O loue, thou mortall speare, thou mortall speare, O loue, thou mortall speare, of powers diuine, the Pa╌ra╌dise of nature, the Parradise of nature, the Par. {repeat} the Parradise of nature, the Par. {repeat} in perfection, what makes thee thus thy kindome vndermine, vayling thy glories, vayling thy glories, vayling {repeat} vnder woes, vn╌der woes reflection, tyrrinie, tyrrinie, tyr. {repeat} Counsaile out of feare, doth borrow counsaile out of feare {repeat} doth bor╌row counsaile out of {repeat} to thinke her kingdome safe, to thinke her kingdome safe, in feare and sorrow. In feare, in feare and sor╌row.</p>
+               </div>
+               <div n="9" type="song">
+                  <pb facs="tcp:177256:21"/>
+                  <head>Of <hi>5.</hi> second Part. <hi>9</hi> Altus.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">I</seg> If I by nature wonder and delight, If I by {repeat} had not sworne all my powers to worship thee, Iustly mine owne reuenge, Iustly {repeat} receiue I might, and see thee tyrrant, and see thee tyrrant suffer tyrranie, tyrrannie, see thee thy selfe, see thee thy selfe dispaire and sorrow, sorrow breeding vnder the wounds of woe, and sorrow bleeding vnder the wounds of woe, and sorrow bleeding, and sorrow bleeding, bleeding.</p>
+               </div>
+               <div n="10" type="song">
+                  <pb facs="tcp:177256:22"/>
+                  <head>Of <hi>5. 10</hi> Altus.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <hi>
+                        <seg rend="decorInit">C</seg>Vpid</hi> my prettie boy leaue off thy crying, such rude denials doe make children theeuish. That boyes must bee restrained, restrained, made daintie to bee hidden are her faire brests, to bee hidden doth shee make thee make faults to make thee beaten. Is beauties pride, is beauties pride, in innocence betraying. Giue mee a blow, and she shall play the child, and shee shall play the child, with loue or sorrow.</p>
+               </div>
+               <div n="11" type="song">
+                  <pb facs="tcp:177256:22"/>
+                  <head>Of <hi>5. 11</hi> Altus.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">L</seg>Oue is the peace, End of the good, end of the good, Perfections spirit passed through hope, A simple goodnesse, which of the ioyes to come doth witnesse beare, which of the ioyes to come, which of the ioyes to come doth witnesse beare, doth witnesse. beare. perfections.</p>
+               </div>
+               <div n="12" type="song">
+                  <pb facs="tcp:177256:23"/>
+                  <head>Of <hi>5. 12</hi> Altus.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">S</seg>Elfe pitties teares, selfe pitties teares, {repeat} wherein my hope lyes drown'd, sighs from thoughts, from thoughts fire, from {repeat} where my de<g ref="char:EOLhyphen"/>sires, Languish of beautie crown'd, of {repeat} furrowes not worne by time, not worne by time, but wheeles of An╌guish, but wheeles of Anguish, Drie vp smile ioy, make smooth and see, smooth and see, and see, smile ioy, make smooth and see, furrowes dispaires, sighs, teares, In beautie bee, furrowes dispaires, sighs, furrowes dispaires, sighs, sighs, teares, In beautie bee. Drie vp.</p>
+               </div>
+               <div n="13" type="song">
+                  <pb facs="tcp:177256:23"/>
+                  <head>Of <hi>5. 13</hi> Altus.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">W</seg>As euer man when with the childe, the childe thought of wisedome. The boy is sad, And mellancholly grone, O sweete eyes, If these mad changes, if these mad changes doe make children Gods, woemen and children, woemen and children, woemen and children are not farre at odds, woemen and children, woemen and children are not farre at odds. If these mad.</p>
+               </div>
+               <div n="14" type="song">
+                  <pb facs="tcp:177256:24"/>
+                  <head>Of <hi>5. 14</hi> Bassus secundus.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">O</seg> False and treacherous probabilitie. Enemie of truth, enemie of truth, and friend to wickednesse, to wickednesse, with bleere eyed opinion learne to see, Learne to see, Truths feeble pittie, pittie here, truths feeble pittie, pittie here and barrennesse, when thou hast thus, when thou {repeat} misled humanitie, and lost obedience in the pride of wit, with reason darst thou Iudge, with reason darst thou Iudge, the Deitie and in thy flesh make bold, make bold to fashion it, to fashion it. Vaine thought, the word of power a riddle is, and till the vailes bee rent. The flesh new borne reueales no wonders of that inward blisse, where faith is,
+<pb facs="tcp:177256:24"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>where faith is, euerie where finds scorne, who therefore censures God with fleshly sprite, as well in time, as well in time may wrap vp infinite.</p>
+               </div>
+               <div n="15" type="song">
+                  <pb facs="tcp:177256:24"/>
+                  <head>Of <hi>5.</hi> first Part. <hi>15</hi> Altus.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">M</seg>An dreame no more, The state of Parradice, the state of Parra╌dice, or hels eternall shade, for Gods workes are like him all infinite, and curious search, but craftie sinnes delight.</p>
+               </div>
+               <div n="16" type="song">
+                  <pb facs="tcp:177256:25"/>
+                  <head>Of <hi>5.</hi> second Part. <hi>16</hi> Altus.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">T</seg>He flood that did ∴ Thy wicked heart that Christ may come and all those types depart.</p>
+               </div>
+               <div type="song">
+                  <head>Of <hi>5.</hi> third Part. Altus.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">W</seg>Hen thou hast swept: when Gods Almight doth in thy flesh appeare, For God doth onely goodnesse, for God doth onely goodnesse, onely goodnes, comprehend knows what was first, knows what {repeat} knows {repeat} and what shall bee the end, shall bee the end. For God doth:</p>
+               </div>
+               <div n="17" type="song">
+                  <pb facs="tcp:177256:25"/>
+                  <head>Of <hi>5.</hi> first Part. <hi>17</hi> Altus.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">W</seg>Ho trusts for trust, for trust, who trusts {repeat} or hopes of loue, for loue, for loue, or hopes of loue for loue, or who belou'd. In <hi>Cupids</hi> lawes doth glorie in <hi>Cupids</hi> lawes, {repeat} who ioyes in vowes, or vowes not to remooue, who ioyes in vowes, or vowes not to remooue, who by this light God hath not beene made sorrie, hath not beene made sorrie, let him see mee, let him see me Eclipsed from my sonne, with shadows of an earth, with shadows of an <gap reason="illegible" resp="#uom" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>art quite one <gap reason="illegible" resp="#uom" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>un<gap reason="illegible" resp="#uom" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> hath not beene made sorri<gap reason="illegible" resp="#uom" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, who by this light God hath not beene made sorrie, let him see mee, let him see mee Eclipsed from my sonne, with shadows of an earth, quite ouer╌runne with shadows of an earth, with shadowes of an earth quite ouer╌runne.</p>
+               </div>
+               <div n="18" type="song">
+                  <pb facs="tcp:177256:26"/>
+                  <head>Of <hi>5.</hi> second Part. <hi>18</hi> Altus.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">W</seg>Ho thinkes that sorrows felt, de╌sires hid, de╌sires hidden, or humble faith with constant honour Armed, can keepe loue from the fruit, can keepe {repeat} that is forbidden, that is {repeat} Change I doe meane by no faith to be charmed, by no faith to be charmed, change I doe meane by no {repeat} looking on mee, looking on me, let him know, let him know loues delight, are treasures hid in Caues, but kept with sprights, let him know loue delights, are treasures hid in Caues, but kept with sprights. Let him.</p>
+               </div>
+               <div n="19" type="song">
+                  <pb facs="tcp:177256:26"/>
+                  <head>
+                     <hi>Of</hi> 5. <hi>19</hi> Altus.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">M</seg>An dreame no more of curious mysteries, as what was here, as what was here before the world was made, before the world was made, the world was made, was made, the first mans life, the first mans life the state of Paradise, where heauen is, where heauen is or hels eternall shade, where heauen is where hea: {repeat} or hels eternall shade. For Gods workes are like him all in╌fi╌nite, for Gods works are like him all in╌finite, and curious search but craftie sins, craftie sins delight, but craftie sinnes delight, for Gods workes are like him all infinite. For Gods workes are like him all infinite, and curious search, and curious search but craftie sins delight, but craftie sins delight, sins deligh.</p>
+               </div>
+               <div n="20" type="song">
+                  <pb facs="tcp:177256:27"/>
+                  <head>Of <hi>5. 20</hi> Altus.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">F</seg>Are╌well. for to thy boyes play I gaue all my youth, for to thy boyes play I gaue all my youth, princes thoughts obseruing, the child of paine and anguish. A chiefe deseruing. I in thy wanton visions, ioy╌ed to languish. I in thy wanton visions, ioyed to languish. But <hi>Cupid</hi> now farewell, farewell, farewell, I will goe play me with thoughts that please me lesse, and lesse betray mee But <hi>Cupid:</hi>
+                  </p>
+               </div>
+               <div n="21" type="song">
+                  <pb facs="tcp:177256:27"/>
+                  <head>Of <hi>5. 21</hi> Altus.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">V</seg>N╌der a throne, I saw a virgin sit, the red and white rose, the red and white rose quartred in her face, starre of the North, starre of the North, and for true guards to it, Church, Princes, States, all pointing out her grace, all pointing out her grace, Church, Princes, States, all pointing out her grace. The homage done her was not borne of wit, feare did ad╌mire, zeale tooke Ambitions place, state in her eyes, state in {repeat} taught order how to fit and fixe conclusions, Conclusions vnobseruing race, fortune can here claime nothing truely great, but that this princely creature is her seate. But that this princely creature is her seate, is her seate. Fortune can:</p>
+               </div>
+               <div n="22" type="song">
+                  <pb facs="tcp:177256:28"/>
+                  <head>Of <hi>5.</hi> first Part. <hi>22</hi> Altus.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">W</seg>Here shall a sorrow. No though thy <hi>Sidney</hi> had suruiu'd his friend, had suruiu'd {repeat} had sur╌uiu'd his friend.</p>
+               </div>
+               <div n="23" type="song">
+                  <pb facs="tcp:177256:28"/>
+                  <head>Of <hi>5.</hi> second Part. <hi>23</hi> Altus.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">D</seg>Ead noble <hi>Brooke,</hi> wayling an old mans fate, wayling an olde mans fate, as if in pride and heate of youth, hee had vntimely dyed, vntimely dyed.</p>
+               </div>
+               <div n="24" type="song">
+                  <pb facs="tcp:177256:29"/>
+                  <head>Of <hi>6.</hi> first Part. <hi>24</hi> Altus.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">W</seg>Here shall a sorrow, Great enough, enough bee fought, for this sad ruine which the fates haue wrought, vnlesse the fates themselues should weepe, should weepe and wish, their curblesse power had beene controld in this, for thy losse worthiest Lord, no mourning eye has flood enough, no mourning eye has flood enough, no muse nor Ele╌gie enough, expression to thy worth, thy worth can lend. No though thy <hi>Sidney</hi> had suruiu'd his friend. No though thy <hi>Sidney</hi> had suruiu'd his friend.</p>
+               </div>
+               <div n="24" type="song">
+                  <pb facs="tcp:177256:29"/>
+                  <head>Of <hi>6. 24</hi> Contertenor.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">W</seg>Here shall a sorrow, Great enough bee sought for this sad ruine, this sad ruine, which the fates, which the fates haue wrought, vnlesse the fates them selues shourd weepe, vnlesse the fates them {repeat} and wish their curblesse power, their curblesse power had beene controld in this. For thy losse worthiest Lord, no mourning eye, no mourning, mourning eye has flood, has flood enough to muse, nor Elegie enough expression to thy worth can lend No though thy <hi>Sidney</hi> had suruiu'd his friend, no though thy <hi>Sidney</hi> had sur╌uiu'd his friend. No though thy <hi>Sidney,</hi> though thy <hi>Sidney</hi> had suruiu'd his friend.</p>
+               </div>
+               <div n="25" type="song">
+                  <pb facs="tcp:177256:30"/>
+                  <head>Of <hi>6.</hi> second Part. <hi>25</hi> Altus.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">D</seg>Ead, noble <hi>Brooke</hi> shall bee to vs a name, of griefe and honour still, of griefe and honour still whose deathlesse fame such vertue such vertue purchasd purchasd ve tue purchasd, as makes vs to bee vniust to nature, vniust to nature, vniust to nature in lamenting thee, vn<gap reason="illegible" resp="#uom" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ust to nature, vniust to nature in lamenting in lamenting thee wayling an old mans fate as if in pride and heate of youth of youth, hee had vntimely dy'd, in pride and heate of youth hee had vn╌time╌ly dy'd vn╌time╌ly dy'd.</p>
+                  <trailer>FINIS.</trailer>
+               </div>
+               <div n="25" type="song">
+                  <pb facs="tcp:177256:30"/>
+                  <head>Of <hi>6.</hi> second Part. <hi>25</hi> Countratenor.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">D</seg>Ead, dead, noble <hi>Brooke</hi> shall bee to vs a name, of griefe and honor and honour still honour still whose deathless<gap reason="illegible" resp="#uom" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> f<gap reason="illegible" resp="#uom" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>me, such vertue purchasd such vertue purchasd, as makes vs to bee vniust to natu<gap reason="illegible" resp="#uom" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e to nature, as makes vs to bee, as makes vs {repeat} vni<gap reason="illegible" resp="#uom" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>st vniust to nature to nature, In lamenting thee, vniust to nature, to nature in lamenting thee wayling an old mans fate as if in pride and heate of youth, as if in pride and heate of youth, and heate of youth, as if in pride and heat of youth and heat of youth hee had vn╌time╌ly dy'd, vntimely dy'd.</p>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </body>
+            <back>
+               <div type="table_of_contents">
+                  <pb facs="tcp:177256:31"/>
+                  <head>THE TABLE.</head>
+                  <list>
+                     <item>
+                        <hi>1.</hi> LOue the delight. <hi>1.</hi> part.</item>
+                     <item>
+                        <hi>2.</hi> Beautie. <hi>2.</hi> part.</item>
+                     <item>
+                        <hi>3.</hi> Time. <hi>3.</hi> part.</item>
+                     <item>
+                        <hi>4.</hi> More then most faire. <hi>1.</hi> part.</item>
+                     <item>
+                        <hi>5.</hi> Thou Window. <hi>2.</hi> part.</item>
+                     <item>
+                        <hi>6.</hi> You little Starres. <hi>1.</hi> part.</item>
+                     <item>
+                        <hi>7.</hi> And thou O Loue. <hi>2.</hi> part.</item>
+                     <item>
+                        <hi>8.</hi> O Loue. <hi>1.</hi> part.</item>
+                     <item>
+                        <hi>9.</hi> If I by Nature. <hi>2.</hi> part.</item>
+                     <item>
+                        <hi>10. Cupid.</hi>
+                     </item>
+                     <item>
+                        <hi>11.</hi> Loue.</item>
+                     <item>
+                        <hi>12.</hi> Selfe pitties teares.</item>
+                     <item>
+                        <hi>13.</hi> Was euer man.</item>
+                     <item>
+                        <hi>14.</hi> O false and treacherous. <hi>2.</hi> Bases.</item>
+                     <item>
+                        <hi>15.</hi> Man dreame no more. <hi>1.</hi> part.</item>
+                     <item>
+                        <hi>16.</hi> The floud. <hi>2.</hi> part.</item>
+                     <item>
+                        <hi>17.</hi> Who trusts for trust. <hi>1.</hi> part.</item>
+                     <item>
+                        <hi>18.</hi> Who thinkes. <hi>2.</hi> part.</item>
+                     <item>
+                        <hi>19.</hi> Man dreame no more</item>
+                     <item>
+                        <hi>20.</hi> Farewell sweet Boy.</item>
+                     <item>
+                        <hi>21.</hi> Vnder a throne.</item>
+                     <item>
+                        <hi>22.</hi> Where shall a sorrow. <hi>1.</hi> part.</item>
+                     <item>
+                        <hi>23.</hi> Dead. <hi>2.</hi> part.</item>
+                     <item>
+                        <hi>24.</hi> Where shall a sorrow. <hi>1.</hi> part. of <hi>6.</hi>
+                     </item>
+                     <item>
+                        <hi>25</hi> Dead. <hi>2.</hi> part. of <hi>6.</hi>
+                     </item>
+                  </list>
+               </div>
+            </back>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:177256:31"/>
+                  <p>TENOR.</p>
+                  <p>MOTTECTS OR GRAVE CHAMBER MVSIQVE.</p>
+                  <p>Containing Songs of fiue parts of seue<g ref="char:EOLhyphen"/>rall sorts, some ful, and some Verse and Chorus.</p>
+                  <p>But all fit for Ʋoyces and Ʋials, with an Organ Part; which for want of Organs, may be performed on VIRGINALS, BASE-LVTE, BANDORA, or IRISH HARPE.</p>
+                  <p>ALSO, A Mourning Song of sixe parts for the Death of the late Right Honorable Sir <hi>FVLKE GREVIL,</hi> Knight of the Honourable order of the Bath, Lord Brooke, Baron Brooke of Beauchamps-Court in the Countie of Warwicke, and of his Maiesties most honourable priuie Councell, &amp;c.</p>
+                  <p>Composed according to the Rules of Art, By <hi>M. P.</hi> Batcheler of MVSIQVE.</p>
+                  <p>LONDON, Printed by WILLIAM STANSBY. 1630.</p>
+               </div>
+               <div type="illustration">
+                  <pb facs="tcp:177256:32"/>
+                  <p>
+                     <figure>
+                        <figDesc>crest presumably of Robert Greville (1608-1643), Baron Brooke of Beauchamps-Court, Warwick</figDesc>
+                        <head>VIX EA NOSTRA VOCO</head>
+                     </figure>
+                  </p>
+               </div>
+               <div type="dedication">
+                  <pb facs="tcp:177256:32"/>
+                  <head>TO THE RIGHT HONOV<g ref="char:EOLhyphen"/>RABLE, ROBERT LORD Brooke Baron Brooke of Beauchamps-Court in the Countie of WARWICKE.</head>
+                  <opener>
+                     <salute>Right Honourable my singuler good Lord,</salute>
+                  </opener>
+                  <p>
+                     <seg rend="decorInit">T</seg>He words which I make bold at present to publish in Musicall compositions, were recommended by your Noble Predeces<g ref="char:EOLhyphen"/>sor; and of right belong vnto you Lord<g ref="char:EOLhyphen"/>ship, because inheritor, no lesse of his sin<g ref="char:EOLhyphen"/>guler Vertues, then Honours, and Pa<g ref="char:EOLhyphen"/>tron (as his Lordship euer was) both of my Person; and Profession; the best Ma<g ref="char:EOLhyphen"/>sters whereof, will alwayes record his Lord<g ref="char:EOLhyphen"/>ships most generous affections, and incouragements: My selfe (vnder reformation) may rise one Note higher, and presume; that if that blessed spirit of his now in heauen) holdeth any memorie and intelligence of hu<g ref="char:EOLhyphen"/>maine actions, it is of that heauen vpon earth, which it found here, in Musicke and Harmonicall proportions, the being whereof is beyond Mortalitie and regulates the whole frame of nature in her being and Motions. Wherefore your Lordship will be pleased to take in good part the worke it selfe, as also the feruent desires I haue to doe (Both) your Lordships that duetie and seruice which I owe, and shall euer heartily acknowledge, being</p>
+                  <closer>
+                     <signed>Your Lordships most humble and most faithfull Seruant, MARTIN PEERSON.</signed>
+                  </closer>
+               </div>
+               <div type="table_of_contents">
+                  <pb facs="tcp:177256:33"/>
+                  <head>THE TABLE.</head>
+                  <list>
+                     <item>
+                        <hi>1.</hi> LOue the delight. <hi>1.</hi> part.</item>
+                     <item>
+                        <hi>2.</hi> Beautie. <hi>2.</hi> part.</item>
+                     <item>
+                        <hi>3.</hi> Time. <hi>3.</hi> part.</item>
+                     <item>
+                        <hi>4.</hi> More then most faire. <hi>1.</hi> part.</item>
+                     <item>
+                        <hi>5.</hi> Thou Window. <hi>2.</hi> part.</item>
+                     <item>
+                        <hi>6</hi> You little Starres. <hi>1.</hi> part.</item>
+                     <item>
+                        <hi>7</hi> And thou O Loue. <hi>2.</hi> part.</item>
+                     <item>
+                        <hi>8</hi> O Loue. <hi>1.</hi> part.</item>
+                     <item>
+                        <hi>9</hi> If I by Nature. <hi>2.</hi> part.</item>
+                     <item>
+                        <hi>10 Cupid.</hi>
+                     </item>
+                     <item>
+                        <hi>11</hi> Loue.</item>
+                     <item>
+                        <hi>12</hi> Selfe pitties teares.</item>
+                     <item>
+                        <hi>13</hi> Was euer man.</item>
+                     <item>
+                        <hi>14</hi> O false and treacherous. <hi>2.</hi> Bases.</item>
+                     <item>
+                        <hi>15</hi> Man dreame no more. <hi>1.</hi> part.</item>
+                     <item>
+                        <hi>16.</hi> The floud. <hi>2.</hi> part.</item>
+                     <item>
+                        <hi>17</hi> Who trusts for trust. <hi>1.</hi> part.</item>
+                     <item>
+                        <hi>18</hi> Who thinkes. <hi>2.</hi> part.</item>
+                     <item>
+                        <hi>19</hi> Man dreame no more</item>
+                     <item>
+                        <hi>20</hi> Farewell sweet Boy.</item>
+                     <item>
+                        <hi>21</hi> Vnder a throne.</item>
+                     <item>
+                        <hi>22</hi> Where shall a sorrow. <hi>1.</hi> part.</item>
+                     <item>
+                        <hi>23</hi> Dead. <hi>2.</hi> part.</item>
+                     <item>
+                        <hi>24</hi> Where shall a sorrow. <hi>1.</hi> part. of <hi>6.</hi>
+                     </item>
+                     <item>
+                        <hi>25</hi> Dead. <hi>2.</hi> part. of <hi>6.</hi>
+                     </item>
+                  </list>
+               </div>
+            </front>
+            <body>
+               <div n="1" type="song">
+                  <pb facs="tcp:177256:33"/>
+                  <head>Of <hi>5.</hi> first Part. <hi>1</hi> Tenor.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">L</seg>Oue the delight of all well thinking minds, delight the fruit of vertue, of vertue deerely lou'd, the fruit of ver╌tue deerely lou'd, vertue the highest good, the highest good, vertue the highest good, the highest, highest good the highest good, reason the fire, wherein mens thoughts, wherein mens thoughts be proou'd, are from the world by natures power bereft, by natures {repeat} and in one creature for her glo╌rie left, for her glorie, left, and in one creature for her glorie left, for her {repeat} and in one creature for her glotie left, and in one creature for her glorie left, and in one {repeat} for her glorie left, for her glorie left.</p>
+               </div>
+               <div n="2" type="song">
+                  <pb facs="tcp:177256:34"/>
+                  <head>Of <hi>5.</hi> second Part. <hi>2</hi> Tenor.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">B</seg>Ecautie, her couer is beautie, her co╌uer is the eyes true plea<g ref="char:EOLhyphen"/>sure, In honours fame shee liues in honours: {repeat} in honours fame in honors fame shee liues. In honours {repeat} the eares sweete Musicke sweete sweete Mu<g ref="char:EOLhyphen"/>sique, from her true measure excesse of wonder, growes from her true measure, from her true measure, true measure, from {repeat} her worth is passions wound, passions wound, and passions Physicke, and passions Physicke, from her true heart, cleere springs of wisedome flow, from her true heart, cleere springs of wisedome flow, which Imag'd in her words and deeds men know, men know, men {repeat} which
+<pb facs="tcp:177256:34"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>Imag'd in her words and deeds, men know, men know, {repeat} In her words and deeds men know.</p>
+               </div>
+               <div n="3" type="song">
+                  <pb facs="tcp:177256:34"/>
+                  <head>Of <hi>5.</hi> third Part. <hi>3</hi> Tenor.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">T</seg>Ime That shee must needs containe her The heauens know their owne, the heauens know their owne, and doe maintaine her delight, loue reasons vertue, let it bee to set all women light, but onely shee delight, loue reason vertue, let it bee to set all woemen light, but onely shee.</p>
+               </div>
+               <div n="4" type="song">
+                  <pb facs="tcp:177256:35"/>
+                  <head>Of <hi>5.</hi> first Part. <hi>4</hi> Tenor.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">M</seg>Ore then most faire, full of all heauenly fire, full of all heauenly fire, kindled aboue, kindled aboue, to shew the makers glorie, to shew the {repeat} beauties, first borne, first borne, beauties first borne, beauties {repeat} In whom all powers conspire, all powers conspire, to write the graces, write the graces life, to write the graces life, to write {repeat} and Muses storie, and Muses storie. If in my heart, in my heart, all Nymphes else be defaced, all Nymphes else bee defaced, defaced, honour the shrine, honour the shrine, honour {repeat} honour {repeat} where you alone are placed, placed, where you alone are placed, placed.</p>
+               </div>
+               <div n="5" type="song">
+                  <pb facs="tcp:177256:35"/>
+                  <head>Of <hi>5.</hi> second Part. <hi>5</hi> Tenor.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">T</seg>Hou window of the skie, thou window {repeat} thou {repeat} and pride of spirits, true Carracter of honour in perfection, thou heauenly creature, thou heauenly {repeat} Iudge of earthly mirrits, and glorious prison of mens pure affection, of mens {repeat} affection. If in my heart, in my heart, all Nymphs else bee defaced, all Nymphs else bee defaced, defaced, honour the shrine, honour {repeat} honour {repeat} honour {repeat} where you alone are placed, placed, where you alone are placed, placed, alone are placed.</p>
+               </div>
+               <div n="6" type="song">
+                  <pb facs="tcp:177256:36"/>
+                  <head>Of <hi>5.</hi> first Part. <hi>6</hi> Tenor.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">Y</seg>Ou little starres that liue in skies, In whose aspect conioyned is, Ioye to bee likened to those eyes, for when you force thoughts from aboue, those ouer rule your force by loue.</p>
+               </div>
+               <div n="7" type="song">
+                  <pb facs="tcp:177256:36"/>
+                  <head>Of <hi>5.</hi> second Part. <hi>7</hi> Tenor.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">A</seg>Nd thou O loue, which in those eyes hast married reason with affection, with affection, where ioyes are shaw<g ref="char:EOLhyphen"/>dowes of per╌fec╌ti╌on, not by worth, not by worth, not {repeat} not {repeat} for I haue vow'd in stran╌gest fashion, to loue and neuer, neuer {repeat} {repeat} seeke, and neuer {repeat} {repeat} {repeat} seeke compassion to loue, and ne╌uer neuer {repeat} {repeat} {repeat} {repeat} seeke compassion, not by worth, not by worth, not, {repeat} not {repeat} for I haue vow'd in stran╌gest fashion, to loue and neuer, neuer, {repeat} {repeat} seeke and neuer, neuer, {repeat} {repeat} seeke compassion, and neuer, neuer, {repeat} {repeat} {repeat} {repeat} seeke compassion.</p>
+               </div>
+               <div n="8" type="song">
+                  <pb facs="tcp:177256:37"/>
+                  <head>Of <hi>5.</hi> first Part. <hi>8</hi> Tenor.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">O</seg> Loue, O loue, thou mortall speare, O loue, thou mortall mortall speare, of powers diuine, the Paradise of nature, of nature, in perfection, of nature in perfection, what makes thee thus thy kingdome, vndermin, vn╌der<g ref="char:EOLhyphen"/>mine, vndermine, vayleing, vayleing thy glories, vnder woes, vnder woes reflection, tyrannie, tyrannie, tyrannie, Counsaile out of feare, counsaile out of feare, counsaile {repeat} counsaile out of feare, out out of feare, doth borrow to thinke her kingdom safe, to think her kingdome safe, in sorrow to think her kingdome safe, safe, her kingdome safe, in feare, in feare and sorrow.</p>
+               </div>
+               <div n="9" type="song">
+                  <pb facs="tcp:177256:37"/>
+                  <head>Of <hi>5.</hi> second Part. <hi>9</hi> Tenor.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">I</seg>F I by nature, If I by nature wonder and delight, had not sworne, had not {repeat} had not sworne, all my powers to worship thee. Iustly mine owne reuenge, Iustly {repeat} Iustly mine owne reuenge, receiue I might and see thee tyrant suffer tyrannie, suffer tyrannie, and see thee tyrant suffer tyrannie, see thee thy selfe despaire, and sorrow breeding, see thee {repeat} and sorrow breeding, vnder the wounds of woe and sorrow, bleeding, vnder the {repeat} and sorrow bleeding, sorrow bleeding, bleeding.</p>
+               </div>
+               <div n="10" type="song">
+                  <pb facs="tcp:177256:38"/>
+                  <head>Of <hi>5. 10</hi> Tenor.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">C</seg>Vpid Thou shalt haue bels and apples, be not peeuish, kisse mee sweete ladde, beshrew her for denying such rude de╌ni╌alls, doe make children theeuish, did reason say, that boyes must bee re╌stray╌ned, made daintie to be hid╌den, are her faire brests made daintie to bee hidden. Tell mee sweete boy, doth <hi>Miras</hi> beautie thretten, doth shee make thee make faults to make thee beaten. Is beauties pride, beauties pride, is beauties pride in Innocense betraying, in Inno<g ref="char:EOLhyphen"/>cense betraying, giue me a blow, and she shall play the child, and shee {repeat} with loue or sor╌row.</p>
+               </div>
+               <div n="11" type="song">
+                  <pb facs="tcp:177256:38"/>
+                  <head>Of <hi>5. 11</hi> Tenor.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">L</seg>Oue is the peace wherto all thoughts do striue, done and begun with all our powers in one, the first and last in vs that is aliue, end of the good, end of the good, and there with pleasd alone, perfections spirit passed through hope. A simple goodnesse, which of the ioyes to come, of the ioyes to come, doth witnesse beare, which of the ioyes to come, of the ioyes to come, doth witnesse beare, which of the ioyes to come, to come, doth witnesse beare, doth witnesse beare. perfections.</p>
+               </div>
+               <div n="12" type="song">
+                  <pb facs="tcp:177256:39"/>
+                  <head>Of <hi>5.</hi> first Part. <hi>12</hi> Tenor.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">S</seg>Elfe pitties teares, selfe pitties teares, selfe {repeat} selfe pitties, pitties teares, selfe pitties teares, wherin my hope lyes drownd, sighs from thoughts fire, sighes from thoughts fire, where my desires languish, dispaire by humble loue of beautie, beautie crownd, of beautie crownd, furrowes not worne by time, not worne by time, furrowes not worne by time, but wheeles of anguish, of anguish, but wheeles of anguish, drie vpsmile ioy, make smooth and see, smile ioye make smooth and see. Ioye make smooth and see, furrowes dispaire, sighes, teares in beautie be, furrowes, dispaires, sighes, furrowes, dispaires, sighes, despaires, sighes, teares in beautie be. drye vp:</p>
+               </div>
+               <div n="13" type="song">
+                  <pb facs="tcp:177256:39"/>
+                  <head>Of <hi>5. 13</hi> Tenor.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">W</seg>As euer man when I am thinking how to keepe him vnder, with prettie stealths, with prettie stealths, he makes mee laugh and wonder, when with the child, the child thoght of wisedome. The boy is sad and melancholly growne, O sweete eyes, wher loue and beautie play, where loue and beautie play, furie turnes into loue, into loue, of that, that, that, of that that that I see, furie turnes into loue, into loue, into loue of that I see. If these mad changes doe make children gods, woemen and children, woemen and children, woemen and children are not farre at ods, woemen and children, woemen and children are not farre, not farre at ods. If these mad.</p>
+               </div>
+               <div n="14" type="song">
+                  <pb facs="tcp:177256:40"/>
+                  <head>Of <hi>5. 14</hi> Tenor.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">O</seg> O false with bleere eyed opinion, learne to see, learne to see, learne to s<gap reason="illegible" resp="#uom" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e. Truths feeble pittie, pittie here, and barrennesse, with reason darst thou Iudge, the deitie, and in thy flesh, make bold, make bold to fashion it, to fashion it, the flesh new borne reueales no wonders, no wonders, of that inward blisse, euery where finds scorne. As well in time, aswell {repeat} might wrap vp infinite.</p>
+               </div>
+               <div n="15" type="song">
+                  <pb facs="tcp:177256:40"/>
+                  <head>Of <hi>5.</hi> first Part. <hi>15</hi> Tenor.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">M</seg>An dreame no more The state of Paradise, or hels eternall shade, for Gods workes, are like him, all infinite and curious, search but craf╌tie sinnes delight.</p>
+               </div>
+               <div n="16" type="song">
+                  <pb facs="tcp:177256:41"/>
+                  <head>Of <hi>5.</hi> second Part. <hi>16</hi> Tenor.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">T</seg>He flood that did and dreadfull fire, that shall drowne and burne vp the mallice of the earth, the diuers tongues, or Babylons downe╌fall, are nothing, are nothing, are nothing, to the mans renewed birth, first let the law plow vp thy wicked heart, that Christ may come, and all those types, and all those types depart.</p>
+               </div>
+               <div type="song">
+                  <head>Of <hi>5.</hi> third Part. Tenor.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">W</seg>Hen thou That all is cleere, when Gods Almight doth in thy flesh appeare, for God doth only goodnesse, for God doth onely goodnes, only goodnes com╌pre╌hend, knowes what was first, what was first, and what shall bee the end. for:</p>
+               </div>
+               <div n="17" type="song">
+                  <pb facs="tcp:177256:41"/>
+                  <head>Of <hi>5.</hi> first Part. <hi>17</hi> Tenor.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">W</seg>Ho trusts for trust, who trusts for trust, or hopes for loue, for loue, for loue, or hopes of loue, for loue, loue for loue, or who, or who be╌lou'd In <hi>Cupids</hi> lawes doth glorie, in <hi>Cupids</hi> lawes, {repeat} or vowes not to remooue, who ioyes in vowes, or vowes not to remooue, or vowes not {repeat} who by this light God hath not beene made sorrie, who by this light God hath not {repeat} let him see mee, see me, let him see mee. Ecclipsed from my sonne, with shadowes, of an earth, of an earth, with shadowes, {repeat} quite ouerrune, who by this hight God hath not beene made sorrie, who by {repeat} let him see me, see me, let him see mee, Ecclipsed from my sonne, with shaddowes of an earth, of an earth, with {repeat} quite ouer╌runne with shaddowes of an earth, with {repeat} of an earth, quite ouer╌run, quite ouer╌run.</p>
+               </div>
+               <div n="18" type="song">
+                  <pb facs="tcp:177256:42"/>
+                  <head>Of <hi>5.</hi> second Part. <hi>18</hi> Tenor.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">W</seg>Ho thinks that sorrowes felt, de╌sires hid, desires hidden, or humble faith with constant honour. Anned can keepe loue from the fruit, can keepe loue from the fruit, can keepe {repeat} keepe loue from the fruit, can keepe loue from the fruit that is forbidden. Change I doe meane, by no faith to be charmed, change I doe meane by no faith to bee char╌med. Looking on mee, looking {repeat} let him know, let him know, loues delights are treasures hid in caues, are treasures {repeat} but kept with sprites, let him know that loues delights, are treasures hid in Caues, but kept with sprites, but kept with sprites. Let him:</p>
+               </div>
+               <div n="19" type="song">
+                  <pb facs="tcp:177256:42"/>
+                  <head>Of <hi>5. 19</hi> Tenor.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">M</seg>An dreame no more of curious mysteries, as what was here before, was here before the world was made, here before the world was made, before the╌world was made, the first mans life, the first mans life, the first {repeat} the first {repeat} the state, the state of Pa╌ra╌dise, where heauen, where heauen is, where {repeat} where heauen is, or hels e╌ter╌nall shad, wher heauen is, or hels eternall shad, E╌ter╌nall shad, or hels eternall shad. For Gods workes are like him, all in╌fi╌nite, Gods workes are like him, all in╌fi╌nite. And curious search, and curious search, but craftie sinnes delight. And curious search, but craftie, but craftie sinnes delight. for Gods:</p>
+               </div>
+               <div n="20" type="song">
+                  <pb facs="tcp:177256:43"/>
+                  <head>Of <hi>5. 20</hi> Tenor.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">F</seg>Are well. Thy mother lou'd thee not with more deuotion, for to thy boyes play, I gaue all my youth while some sought honours Princes, thoughts obseruing, many woed, fame others, Iudged inward, good a chiefe deseruing, I in thy wanton visious, ioyd to languish, I in thy wanton visions, Ioyed to languish, I in thy wanton visious, Ioyed to languish, But <hi>Cupid</hi> now farewell, farewell {repeat} I will goe play mee with thoughts that please mee, lesse and lesse betray me. But <hi>Cupid.</hi>
+                  </p>
+               </div>
+               <div n="21" type="song">
+                  <pb facs="tcp:177256:43"/>
+                  <head>Of <hi>5. 21</hi> Tenor.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">V</seg>Nder a throne, a throne, I saw a virgin sit, a virgin sit, the red and white Rose, the red and white Rose, quartred in her face, starre of the north, starre of the north, and for true guards to it, Church, Princes, States all pointing out her grace. Church, Princes {repeat} all pointing out her grace. The homage done her, the ho╌ {repeat} was not borne of wit, feare did ad╌mire, feare did admire, zeale tooke ambitions place, state in her eyes, state {repeat} state {repeat} taught order, how to fit and fixe conclusions, and fixe {repeat} vnobseruing race, fortune can here claime nothing, truely gre<gap reason="illegible" resp="#uom" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t, b<gap reason="illegible" resp="#uom" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t that this princely creature is her seate, but that this princely creature is her seate, but that this princely creature is her seate, îs her╌seate. fortune can:</p>
+               </div>
+               <div n="22" type="song">
+                  <pb facs="tcp:177256:44"/>
+                  <head>Of <hi>5.</hi> first Part. <hi>22</hi> Tenor.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">W</seg>Here shall a sorrow great enough, be sought for thîs sad ruine, which the fates haue wrought, vnlesse the fates themselues should weepe, and wish their curb╌lesse power had beene contrould, in this for thy losse worthyest Lord. No mourning eye has flood enough, no muse nor Elegie enough, expression to thy worth can lend. No though thy <hi>Sidney</hi> had suruiu'd his friend, no thogh thy <hi>Sidney</hi> had sur╌uiu'd his friend, had sur╌uiu'd his friend, suruiu'd his friend.</p>
+               </div>
+               <div n="23" type="song">
+                  <head>Second part. <hi>23</hi>
+                  </head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>Dead noble <hi>Brooke</hi> shall bee to vs a name, of griefe and honour still, whose deathlesse fame and vertue purchasd, as makes vs to be vniust to nature in lamenting thee, wayling an old mans fate, wayling an {repeat} As if in pride and heate of youth, hee had vntimely dy'd, vntimely dy'd. wayling an:</p>
+               </div>
+               <div n="24" type="song">
+                  <pb facs="tcp:177256:44"/>
+                  <head>Of <hi>6.</hi> first Part. <hi>24</hi> Tenor.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">W</seg>Here shall a sorrow, Great enough be sought, for this sad ruine, for this sad ruine, which the fates, the fates haue wrought, haue wrought, vnlesse the fates: emselues should weepe, and wish their curb╌lesse power had beene controld, in this for thy losse worthyest Lord, no mourning eye has flood en╌ough, no muse nor E╌le╌gie, enough expression to thy worth, thy worth can lend. No though thy <hi>Sidney</hi> had suruiu'd his friend, no though thy <hi>Sidney</hi> had suruiu'd his friend, no though thy <hi>Sid╌ney</hi> had suruiu'd his friend.</p>
+               </div>
+               <div n="25" type="song">
+                  <pb facs="tcp:177256:45"/>
+                  <head>Of <hi>6.</hi> second Part. <hi>25</hi> Tenor.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">D</seg>Ead, dead, noble <hi>Brooke</hi> shall bee to vs a name, of griefe and honour, still of griefe and honour, still honour, still whose deathlesse fame such vertue purchasd, as makes vs to bee vniust to nature, as makes vs to be vniust to nature, to {repeat} vniust to nature in lamenting thee vn<g ref="char:EOLhyphen"/>iust, {repeat} vniust to nature in lamenting thee, wayling an old mans fate, as if in pride and heate of youth, and heate of youth, and heate of youth, hee had vn╌time╌ly dy'd, vntimely dy'd, as if in pride and heate of youth he had vntimely, vntimely dy'd, vntimely dy'd.</p>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:177256:45"/>
+                  <p>CONTRATENOR.</p>
+                  <p>MOTTECTS OR GRAVE CHAMBER MVSIQVE.</p>
+                  <p>Containing Songs of fiue parts of seue<g ref="char:EOLhyphen"/>rall sorts, some ful, and some Verse and Chorus.</p>
+                  <p>But all fit for Ʋoyces and Ʋials, with an Organ Part; which for want of Organs, may be performed on VIRGINALS, BASE-LVTE, BANDORA, or IRISH HARPE.</p>
+                  <p>ALSO, A Mourning Song of sixe parts for the Death of the late Right Honorable Sir <hi>FVLKE GREVIL,</hi> Knight of the Honourable order of the Bath, Lord Brooke, Baron Brooke of Beauchamps-Court in the Countie of Warwicke, and of his Maiesties most honourable priuie Councell, &amp;c.</p>
+                  <p>Composed according to the Rules of Art, By <hi>M. P.</hi> Batcheler of MVSIQVE.</p>
+                  <p>LONDON, Printed by WILLIAM STANSBY. 1630.</p>
+               </div>
+               <div type="illustration">
+                  <pb facs="tcp:177256:46"/>
+                  <p>
+                     <figure>
+                        <figDesc>crest presumably of Robert Greville (1608-1643), Baron Brooke of Beauchamps-Court, Warwick</figDesc>
+                        <head>VIX EA NOSTRA VOCO</head>
+                     </figure>
+                  </p>
+               </div>
+               <div type="dedication">
+                  <pb facs="tcp:177256:46"/>
+                  <head>TO THE RIGHT HONOV<g ref="char:EOLhyphen"/>RABLE, ROBERT LORD Brooke Baron Brooke of Beauchamps-Court in the Countie of WARWICKE.</head>
+                  <opener>
+                     <salute>Right Honourable my singuler good Lord,</salute>
+                  </opener>
+                  <p>
+                     <seg rend="decorInit">T</seg>He words which I make bold at present to publish in Musicall compositions, were recommended by your Noble Predeces<g ref="char:EOLhyphen"/>sor; and of right belong vnto you Lord<g ref="char:EOLhyphen"/>ship, because inheritor, no lesse of his sin<g ref="char:EOLhyphen"/>guler Vertues, then Honours, and Pa<g ref="char:EOLhyphen"/>tron (as his Lordship euer was) both of my Person; and Profession; the best Ma<g ref="char:EOLhyphen"/>sters whereof, will alwayes record his Lord<g ref="char:EOLhyphen"/>ships most generous affections, and incouragements: My selfe (vnder reformation) may rise one Note higher, and presume; that if that blessed spirit of his now in heauen) holdeth any memorie and intelligence of hu<g ref="char:EOLhyphen"/>maine actions, it is of that heauen vpon earth, which it found here, in Musicke and Harmonicall proportions, the being whereof is beyond Mortalitie and regulates the whole frame of nature in her being and Motions. Wherefore your Lordship will be pleased to take in good part the worke it selfe, as also the feruent desires I haue to doe (Both) your Lordships that duetie and seruice which I owe, and shall euer heartily acknowledge, being</p>
+                  <closer>
+                     <signed>Your Lordships most humble and most faithfull Seruant, MARTIN PEERSON.</signed>
+                  </closer>
+               </div>
+               <div type="table_of_contents">
+                  <pb facs="tcp:177256:47"/>
+                  <head>THE TABLE.</head>
+                  <list>
+                     <item>
+                        <hi>1.</hi> LOue the delight. <hi>1.</hi> part.</item>
+                     <item>
+                        <hi>2.</hi> Beautie. <hi>2.</hi> part.</item>
+                     <item>
+                        <hi>3.</hi> Time. <hi>3.</hi> part.</item>
+                     <item>
+                        <hi>4.</hi> More then most faire. <hi>1.</hi> part.</item>
+                     <item>
+                        <hi>5.</hi> Thou Window. <hi>2.</hi> part.</item>
+                     <item>
+                        <hi>6</hi> You little Starres. <hi>1.</hi> part.</item>
+                     <item>
+                        <hi>7</hi> And thou O Loue. <hi>2.</hi> part.</item>
+                     <item>
+                        <hi>8</hi> O Loue. <hi>1.</hi> part.</item>
+                     <item>
+                        <hi>9</hi> If I by Nature. <hi>2.</hi> part.</item>
+                     <item>
+                        <hi>10 Cupid.</hi>
+                     </item>
+                     <item>
+                        <hi>11</hi> Loue.</item>
+                     <item>
+                        <hi>12</hi> Selfe pitties teares.</item>
+                     <item>
+                        <hi>13</hi> Was euer man.</item>
+                     <item>
+                        <hi>14</hi> O false and treacherous. <hi>2.</hi> Bases.</item>
+                     <item>
+                        <hi>15</hi> Man dreame no more. <hi>1.</hi> part.</item>
+                     <item>
+                        <hi>16.</hi> The floud. <hi>2.</hi> part.</item>
+                     <item>
+                        <hi>17</hi> Who trusts for trust. <hi>1.</hi> part.</item>
+                     <item>
+                        <hi>18</hi> Who thinkes. <hi>2.</hi> part.</item>
+                     <item>
+                        <hi>19</hi> Man dreame no more</item>
+                     <item>
+                        <hi>20</hi> Farewell sweet Boy.</item>
+                     <item>
+                        <hi>21</hi> Vnder a threne.</item>
+                     <item>
+                        <hi>22</hi> Where shall a sorrow. <hi>1.</hi> part.</item>
+                     <item>
+                        <hi>23</hi> Dead. <hi>2.</hi> part.</item>
+                     <item>
+                        <hi>24</hi> Where shall a sorrow. <hi>1.</hi> part. of <hi>6.</hi>
+                     </item>
+                     <item>
+                        <hi>25</hi> Dead. <hi>2.</hi> part. of <hi>6.</hi>
+                     </item>
+                  </list>
+               </div>
+            </front>
+            <body>
+               <div n="1" type="song">
+                  <pb facs="tcp:177256:47"/>
+                  <head>Of <hi>5.</hi> first Part. <hi>1</hi> Contratenor.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">L</seg>Oue the delight of all well thinking minds, loue the delight of all well thinking minds, delight the fruit of vertue vertue deerely lou'd, of vertue deerely deerely lou'd, vertue the highest highest good, vertue the highest good the highest highest good, that rea╌son finds reason the fire, wherein mens thoughts be prou'd, wherein mens {repeat} are from the world, are from the world are from the world by natures power bereft, and in one creature for her glorie left for her glo╌rie left and in one creature, in one creature for her glorie left, and in one creature {repeat} and in one creature for {repeat} and in one Creature for her glorie her glorie left, for her glorie left.</p>
+               </div>
+               <div n="2" type="song">
+                  <pb facs="tcp:177256:48"/>
+                  <head>Of <hi>5.</hi> second Part. <hi>2</hi> Contratenor.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">B</seg>Eautie her couer is, beautie her {repeat} couer is. The eyes true pleasure in honours fame, shee liues in honours honours fame shee liu's, In honours fame {repeat} shee liu's, the eares sweete Musicke, sweete, sweete Musicke excesse of wonder growes from her true measure, excesse of wonder growes f. {repeat} excesse of wonder growes from her excesse of wonder {repeat} her worth is passions wound, her worth is passions wound, and passions Physicke, and passions Physicke, from her true heart cleere springs of wisedome flow, from her true heart cleere {repeat} which Imag'd in her words and deeds, men know, men know which Imag'd in her wer; {repeat} her
+<pb facs="tcp:177256:48"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>words and deeds, men know, men know, which Imag'd in her words and deeds, men know, men know,</p>
+               </div>
+               <div n="3" type="song">
+                  <pb facs="tcp:177256:48"/>
+                  <head>Of <hi>5.</hi> third Part. <hi>3</hi> Contratenor.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">T</seg>Ime, Place doth reioyce that shee must needs containe her. The heauens know her owne, the heauens know their owne and doe maintaine, maintaine her delight, loue reason vrrtue let it bee to set all woemen light but onely shee, but onely shee. Delight loue reason vertue let it bee to set all woemen light but onely shee, but onely shee.</p>
+               </div>
+               <div n="4" type="song">
+                  <pb facs="tcp:177256:49"/>
+                  <head>Of <hi>5.</hi> first Part. <hi>4</hi> Contratenor.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">M</seg>Ore then most faire full of all heauenly beautie, most faire full of all heauenly beautie, kindled aboue, kindled aboue to shew, to shew the makers glorie, the makers glorie, beauties first borne, beauties first borne, beauties {repeat} first borne, in whom all powers conspire, in whom {repeat} To write the Graces life, to write the Gra: {repeat} and Muses storie, and Mu╌ses storie, If in my heart, All Nymphes else bee de╌fa╌ced, all Nymphes else bee defaced, all Nymphes {repeat} defaced, honour the shrine, honour the shrine, honour {repeat} honour {repeat} where you alone are placed, where you alone are placed. If in my heart.</p>
+               </div>
+               <div n="5" type="song">
+                  <pb facs="tcp:177256:49"/>
+                  <head>Of <hi>5.</hi> second Part. <hi>5</hi> Contratenor.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">T</seg>Hen window of the skie, thou window of {repeat} and pride of spirits, True Character of honour in perfection, Thou heauenly creature, thou heauenly {repeat} Iudge of earthly mirrits and glorious pri╌son, of mens pure affection of mens {repeat} pure affection. If in my heart all nymphs else bee de╌fa╌ced, all nymphs else {repeat} all nymphs else {repeat} defaced, honor the shrine, honor the {repeat} honor {repeat} honor {repeat} where you alone are placed, where you alone are placed, alone are placed, If in my heart.</p>
+               </div>
+               <div n="6" type="song">
+                  <pb facs="tcp:177256:50"/>
+                  <head>Of <hi>5.</hi> first Part. <hi>6</hi> Contratenor.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">Y</seg>Ou little starres that liue in skies, In whose Aspect conioyned lies, Ioye to bee likned to those eyes, which eyes makes all eyes glad or sorrie, for when you force thoughts from aboue, those ouer╌rule, your force by loue.</p>
+               </div>
+               <div n="7" type="song">
+                  <pb facs="tcp:177256:50"/>
+                  <head>Of <hi>5.</hi> second Part. <hi>7</hi> Contratenor.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">A</seg>Nd thou O loue which in those eyes, hast mar╌ri╌ed reason with affection, and made them Saints of beauties skies, and made them Saints of beauties skies, of perf<gap reason="illegible" resp="#uom" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ction not by worth, for I haue vow'd In strangest fashion, in strangest fashion, and neuer, ne╌uer {repeat} {repeat} seeke com╌passi╌on, com╌pasi╌on, not by worth for I haue vow'd, In strangest fashion, in strangest fashion, And neuer ne╌uer {repeat} {repeat} seeke compassion, ne╌uer seeke com╌passi╌on.</p>
+               </div>
+               <div n="8" type="song">
+                  <pb facs="tcp:177256:51"/>
+                  <head>Of <hi>5.</hi> first Part. <hi>8</hi> Contratenor.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">O</seg> Loue, O loue thou mortall speare, thou mortall speare, O Loue thou {repeat} thou mortall speare, of powers diuine, the paradice of nature, the para: {repeat} the parra: {repeat} the parradice of Na╌ture, In perfection, in perfection, what makes thee thus thy kingdome vndermine, vn╌der╌mine, vayling thy glories, vnder woes reflection, reflection, Tirrannie, tirrannie, tyr:: {repeat} Counsaile out of feare doth borrow counsaile of of fe: {repeat} of feare doth borrow counsaile, out of feare {repeat} doth borrow, to thinke her kingdome safe. In feare and sorrow to thinke her kingdome safe, in feare, in feare and sorrow, in feare, in feare and sor╌row.</p>
+               </div>
+               <div n="9" type="song">
+                  <pb facs="tcp:177256:51"/>
+                  <head>Of <hi>5.</hi> second Part. <hi>9</hi> Contratenor.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">I</seg>F I by nature, If I by nature wonder and delight, had not sworne, had not sworne all my powers to worship thee. Iustly mine owne reuenge receiue I might. Iustly mine owne reuenge, Iustly mine owne re╌ {repeat} receiue I might, and see thee tyerante suffer tyr╌ran╌nie, thee tyerant suffer tyrannie, see thee thy selfe dispaire dispaire, see thee thy selfe dispaire, and sorrow and sorrow breeding, sorrow breeding vnder the wounds of woe, the wounds of woe, vnder the wounds of woe and sorrow bleeding, sorrow bleeding, bleeding.</p>
+               </div>
+               <div n="10" type="song">
+                  <pb facs="tcp:177256:52"/>
+                  <head>Of <hi>5. 10</hi> Contratenor.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <hi>
+                        <seg rend="decorInit">C</seg>Ʋpid,</hi> Thou shalt haue bels or apples, bee not peeuish, such rude deni╌als doe make children theeuish. Did reason say that boyes must bee restrained, restrained, or would they haue thee from sweete <hi>Mira</hi> weyned, made daintie to be hid, are those faire breasts made daintie to bee hid╌den, must you say Grace when you should bee a playing, doth shee make thee make faults to make thee beaten. Is beauties pride in Innocense, is beauties pride in Innocense betraying. Giue me a blow, and shee shall play the Child, and shee {repeat} with loue or sorrow. Giue me a</p>
+               </div>
+               <div n="11" type="song">
+                  <pb facs="tcp:177256:52"/>
+                  <head>Of <hi>5. 11</hi> Contratenor.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">L</seg>Oue, And of the good, and of the good, Perfections spirrit, passed through hope. A simple goodnesse, which of the ioyes to come to come, doth witnesse beare, which of the ioyes to come to come, which of the ioyes to come to come, doth witnesse beare, doth witnesse beare. Perfections spirrit.</p>
+               </div>
+               <div n="12" type="song">
+                  <pb facs="tcp:177256:53"/>
+                  <head>Of <hi>5. 12</hi> Contratenor.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">S</seg>Elfe pitties teares, selfe pitties teares, selfe p. {repeat} pitties teares, selfe pitties teares wherein my hope lies drown'd, sighs from thoughts from thoughts fire where my de╌sires lan╌guish desires languish. Dispaire Beau╌tie crownd of beautie crownd, furrowes not worne by time, furrowes not worne {repeat} not worne by time but wheeles of Anguish, but wheeles of {repeat} but wheeles of anguish, Drie vp smile ioye make smooth and see, smile ioye make smooth make smooth and see, furrowes dispaires sighs teares in beautie bee in beautie bee, furrowes dispaires sighs furrowes dispaire furrowes {repeat} sighs teares in beautie bee. Drie vp.</p>
+               </div>
+               <div n="13" type="song">
+                  <pb facs="tcp:177256:53"/>
+                  <head>Of <hi>5. 13</hi> Contratenor.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">W</seg>As e╌uer man so matcht with boye, hee playes and dallies me with euery toye, with prettie stealths, with p. {repeat} hee makes mee laugh and wonder, when with the child the child thought of wisedome. The boye is sad and melancholly growne. Straight doe I scorne and bid the child away, the boye knowes furie and soone sheweth me <hi>Caelieas.</hi> O sweete eyes where loue and beautie play, where loue and beautie play, furie turnes into loue into loue of that that that I see. If these mad changes, if these {repeat} doe make children Gods woemen, and children woemen and {repeat} woemen and {repeat} are not farre at ods, woemen and children are not farre at odds, not farre at odds. If these mad changes.</p>
+               </div>
+               <div n="14" type="song">
+                  <pb facs="tcp:177256:54"/>
+                  <head>Of <hi>5. 14</hi> Contratenor.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">O</seg> False, with bleere eyed opinion, with bleere eyed opinion, Learne to see to see, and barrennesse, Iudge the deitie, And in thy flesh make bold to fashion it, to fashion it. The flesh new borne, reueales no wonders of that Inward blisse which but euery where finds scorne, As well in time, as well in time may wrap vp in╌fi╌nite.</p>
+               </div>
+               <div n="15" type="song">
+                  <pb facs="tcp:177256:54"/>
+                  <head>Of <hi>5.</hi> first Part. <hi>15</hi> Contratenor.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">M</seg>An dreame no more, of curious mysteries, as what was here before the world was made, The first mans life, the state of Parradice, the state of Parradice, where heauen is, where heauen is, or hels eternall shade. For Gods workes are like him. All infinite and curious search, but craftie sinnes delight. For Gods.</p>
+               </div>
+               <div n="16" type="song">
+                  <pb facs="tcp:177256:55"/>
+                  <head>Of <hi>5.</hi> second Part. <hi>16</hi> Contratenor.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">T</seg>He flood, First let the law plow vp thy wicked heart, and all those types depart, When thou hast swept the house that all is cleere When Gods Almight doth in thy flesh appeare For God doth onely goodnesse, for God doth {repeat} onely goodnesse comprehend, knowes what was first, knowes what was first knowes {repeat} and what shall bee the end. For God.</p>
+               </div>
+               <div n="17" type="song">
+                  <pb facs="tcp:177256:55"/>
+                  <head>Of <hi>5.</hi> first Part. <hi>17</hi> Contratenor.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">W</seg>Ho trusts for trust trusts for trust, who trusts {repeat} or hopes of loue or hopes of loue or hopes of loue for loue or hopes of loue {repeat} or who belou'd, in <hi>Cupids</hi> lawes doth glorie, In <hi>Cupids</hi> lawes {repeat} doth glorie who ioyes in vowes or vowes not to remoeue, or vowes not {repeat} or vowes not {repeat} who by this light God, hath not beene made sor╌rie who by this {repeat} Let him see mee, let him {repeat} Eclipsed from my sonne with shadowes of an Earth with sha. {repeat} with sha. {repeat} quite ouer╌runne who by this light God, hath not beene made sor╌rie who by this light {repeat} Let him see mee, let {repeat} Eclipsed from my sonne with shadowes of an Earth with sha. {repeat} with sha. {repeat} quite ouer╌run with shadowes {repeat} with shadowes {repeat} quite ouer╌run quite ouer╌run.</p>
+               </div>
+               <div n="18" type="song">
+                  <pb facs="tcp:177256:56"/>
+                  <head>Of <hi>5.</hi> second Part. <hi>18</hi> Contratenor.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">W</seg>Ho thinkes that sorrowes felt desires hid de╌sires hidden, de╌sires hid de╌sires hidden or humble faith with constant honour armed, Can keepe loue from the fruit, can keepe loue {repeat} from the fruit, that is for╌bid╌den change I doe meane by no faith to bee char╌med by no faith to bee charmed by no faith {repeat} looking on mee looking on me, looking {repeat} let him know loues delights, are treasures hid in Caues, hid in Caues but kept with spirits let him know that loues delights are treasures hid in Caues hid in Caues but kept, but kept with sprites Let him know.</p>
+               </div>
+               <div n="19" type="song">
+                  <pb facs="tcp:177256:56"/>
+                  <head>Of <hi>5. 19</hi> Contratenor.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">M</seg>An dreame no more of cu╌rious mysteries as what was here before what was here before, before the world was made, the world was made before the world the world was made was made the first mans life first mans life, the first {repeat} the state the state of Par╌ra╌dise, where heauen is, where heauen is heauen is or hels E╌ter╌nall shade, wher heauen is, or hels e╌ter╌nall shade eternall shade eter. {repeat} For Gods workes are like him like him all Infinite for Gods workes are like him all Infinite for Gods worker are like him all Infinite Infinite and Curious, search and Cu╌rious search but craftie sinnes delight but craftie craftie sinnes delight. For Gods.</p>
+               </div>
+               <div n="20" type="song">
+                  <pb facs="tcp:177256:57"/>
+                  <head>Of <hi>5. 20</hi> Contratenor.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">F</seg>Are╌well, for to thy boyes play I gaue all my youth for to thy boyes {repeat} I {repeat} Princes thoughts obseruing the child of paine and Anguish A chiefe deseruing I in thy wanton visions ioyed to languish, I in thy wanton visions ioyed to languish. I bowed not thy Image for succession, nor bound thy bow to shoote reformed kindnesse, thy playes of hope and feare neere my confession, The spectacles to my life, was thy blindnesse, the spectacles to my life, was thy blindnesse. But <hi>Cupid</hi> now fare╌well fare╌well, {repeat} I will goe play mee with thoughts that please mee lesse, and lesse betray mee.</p>
+               </div>
+               <div n="21" type="song">
+                  <pb facs="tcp:177256:57"/>
+                  <head>Of <hi>5. 21</hi> Contratenor.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">V</seg>Nder a throne I saw a virgin sit I saw a virgin fit the red and white rose the red and white rose quartred in her face, starre of the North, and for true gards to it Church Princes, states all pointing out her Grace Church Pri. {repeat} all pointing out her Grace, The homage done her, was not borne of wit, feare did admire feare d. {repeat} feare d. {repeat} zeale tooke Ambitions place, state in her eyes state in {repeat} Taught order how to fit how {repeat} and fixe, conclusions, and fixe {repeat} vnobseruing race Fortune can her claime nothing truely Great but that this princely creature is her seate but that this P. {repeat} but that this princely creature is her seate, is her seate. Fortune can.</p>
+               </div>
+               <div n="22" type="song">
+                  <pb facs="tcp:177256:58"/>
+                  <head>Of <hi>5.</hi> first Part. <hi>22</hi> Contratenor.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">W</seg>Here shall a sorrow, No though thy <hi>Sidney</hi> had suruiu'd his friend had suruiu'd his friend suruiu'd his friend.</p>
+               </div>
+               <div n="23" type="song">
+                  <head>Second part. <hi>23</hi>
+                  </head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> wayling wayling an old mans fate as if in pride, and heate of youth hee had vntimely dy'd, vntimely dy'd.</p>
+               </div>
+               <div n="24" type="song">
+                  <pb facs="tcp:177256:58"/>
+                  <head>Of <hi>6.</hi> first Part. <hi>24</hi> Contratenor.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">W</seg>Here shall a sorrow great enough bee sought, for this sad ruine, for this sad ruine which the fates haue wrought, vnlesse the fates them selues should weepe vnlesse the fates {repeat} and with their curblesse power their curblesse power had beeue controld in this for thy losse worthiest Lord, no mourning eye no mourning eye has flood enough, no mourning eye has flood e<g ref="char:EOLhyphen"/>nough, has flood enough no Muse nor Elegie enough expression to thy worth can lend, No though thy <hi>Sidney</hi> had suruiu'd his friend, no though thy <hi>Sidney</hi> had suruiu'd his friend, no though thy <hi>Sidney</hi> had suruiu'd his friend.</p>
+               </div>
+               <div n="25" type="song">
+                  <pb facs="tcp:177256:59"/>
+                  <head>Of <hi>6.</hi> second Part. <hi>25</hi> Contratenor.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">D</seg>Ead noble <hi>Brooke</hi> shall bee shall bee to vs a name, bee to vs a name, of griefe and honour still of griefe and honour still whose deathlesse fame whose deathlesse fame such honour purchasd honour purchasd such honour purchasd as makes vs to bee vniust, as makes vs to bee, as makes {repeat} vn<g ref="char:EOLhyphen"/>iust to nature, vniust to nature to nature, vniust to {repeat} In lamenting thee vniust to nature, vniust {repeat} vniust to nature in lamenting in lamenting th<gap reason="illegible" resp="#uom" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e, wayling an old mans fate, as if in pride and heate of, youth and heate of youth, hee had vntimely dy'd hee had vntimely dy'd vntimely dy'd. In pride and heate of youth hee had vntimely dy'd vntimely dy'd.</p>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:177256:59"/>
+                  <p>BASSVS.</p>
+                  <p>MOTTECTS OR GRAVE CHAMBER MVSIQVE.</p>
+                  <p>Containing Songs of fiue parts of seue<g ref="char:EOLhyphen"/>rall sorts, some ful, and some Verse and Chorus.</p>
+                  <p>But all fit for Ʋoyces and Ʋials, with an Organ Part; which for want of Organs, may be performed on VIRGINALS, BASE-LVTE, BANDORA, or IRISH HARPE.</p>
+                  <p>ALSO, A Mourning Song of sixe parts for the Death of the late Right Honorable Sir <hi>FVLKE GREVIL,</hi> Knight of the Honourable order of the Bath, Lord Brooke, Baron Brooke of Beauchamps-Court in the Countie of Warwicke, and of his Maiesties most honourable priuie Councell, &amp;c.</p>
+                  <p>Composed according to the Rules of Art, By <hi>M. P.</hi> Batcheler of MVSIQVE.</p>
+                  <p>LONDON, Printed by WILLIAM STANSBY. 1630.</p>
+               </div>
+               <div type="illustration">
+                  <pb facs="tcp:177256:60"/>
+                  <p>
+                     <figure>
+                        <figDesc>crest presumably of Robert Greville (1608-1643), Baron Brooke of Beauchamps-Court, Warwick</figDesc>
+                        <head>VIX EA NOSTRA VOCO</head>
+                     </figure>
+                  </p>
+               </div>
+               <div type="dedication">
+                  <pb facs="tcp:177256:60"/>
+                  <head>TO THE RIGHT HONOV<g ref="char:EOLhyphen"/>RABLE, ROBERT LORD Brooke Baron Brooke of Beauchamps-Court in the Countie of WARWICKE.</head>
+                  <opener>
+                     <salute>Right Honourable my singuler good Lord,</salute>
+                  </opener>
+                  <p>
+                     <seg rend="decorInit">T</seg>He words which I make bold at present to publish in Musicall compositions, were recommended by your Noble Predeces<g ref="char:EOLhyphen"/>sor; and of right belong vnto you Lord<g ref="char:EOLhyphen"/>ship, because inheritor, no lesse of his sin<g ref="char:EOLhyphen"/>guler Vertues, then Honours, and Pa<g ref="char:EOLhyphen"/>tron (as his Lordship euer was) both of my Person; and Profession; the best Ma<g ref="char:EOLhyphen"/>sters whereof, will alwayes record his Lord<g ref="char:EOLhyphen"/>ships most generous affections, and incouragements: My selfe (vnder reformation) may rise one Note higher, and presume; that if that blessed spirit of his now in heauen) holdeth any memorie and intelligence of hu<g ref="char:EOLhyphen"/>maine actions, it is of that heauen vpon earth, which it found here, in Musicke and Harmonicall proportions, the being whereof is beyond Mortalitie and regulates the whole frame of nature in her being and Motions. Wherefore your Lordship will be pleased to take in good part the worke it selfe, as also the feruent desires I haue to doe (Both) your Lordships that duetie and seruice which I owe, and shall euer heartily acknowledge, being</p>
+                  <closer>
+                     <signed>Your Lordships most humble and most faithfull Seruant, MARTIN PEERSON.</signed>
+                  </closer>
+               </div>
+               <div type="table_of_contents">
+                  <pb facs="tcp:177256:61"/>
+                  <head>THE TABLE.</head>
+                  <list>
+                     <item>
+                        <hi>1.</hi> LOue the delight. <hi>1.</hi> part.</item>
+                     <item>
+                        <hi>2.</hi> Beautie. <hi>2.</hi> part.</item>
+                     <item>
+                        <hi>3.</hi> Time. <hi>3.</hi> part.</item>
+                     <item>
+                        <hi>4.</hi> More then most faire. <hi>1.</hi> part.</item>
+                     <item>
+                        <hi>5.</hi> Thou Window. <hi>2.</hi> part.</item>
+                     <item>
+                        <hi>6</hi> You little Starres. <hi>1.</hi> part.</item>
+                     <item>
+                        <hi>7</hi> And thou O Loue. <hi>2.</hi> part.</item>
+                     <item>
+                        <hi>8</hi> O Loue. <hi>1.</hi> part.</item>
+                     <item>
+                        <hi>9</hi> If I by Nature. <hi>2.</hi> part.</item>
+                     <item>
+                        <hi>10 Cupid.</hi>
+                     </item>
+                     <item>
+                        <hi>11</hi> Loue.</item>
+                     <item>
+                        <hi>12</hi> Selfe pitties teares.</item>
+                     <item>
+                        <hi>13</hi> Was euer man.</item>
+                     <item>
+                        <hi>14</hi> O false and treacherous. <hi>2.</hi> Bases.</item>
+                     <item>
+                        <hi>15</hi> Man dreame no more. <hi>1.</hi> part.</item>
+                     <item>
+                        <hi>16.</hi> The floud. <hi>2.</hi> part.</item>
+                     <item>
+                        <hi>17</hi> Who trusts for trust. <hi>1.</hi> part.</item>
+                     <item>
+                        <hi>18</hi> Who thinkes. <hi>2.</hi> part.</item>
+                     <item>
+                        <hi>19</hi> Man dreame no more</item>
+                     <item>
+                        <hi>20</hi> Farewell sweet Boy.</item>
+                     <item>
+                        <hi>21</hi> Vnder a throne.</item>
+                     <item>
+                        <hi>22</hi> Where shall a sorrow. <hi>1.</hi> part.</item>
+                     <item>
+                        <hi>23</hi> Dead. <hi>2.</hi> part.</item>
+                     <item>
+                        <hi>24</hi> Where shall a sorrow. <hi>1.</hi> part. of <hi>6.</hi>
+                     </item>
+                     <item>
+                        <hi>25</hi> Dead. <hi>2.</hi> part. of <hi>6.</hi>
+                     </item>
+                  </list>
+               </div>
+            </front>
+            <body>
+               <div n="1" type="song">
+                  <pb facs="tcp:177256:61"/>
+                  <head>Of <hi>5.</hi> first Part. <hi>1</hi> Bassus.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">L</seg>Oue the delight, Delight the fruit of all well thinking minds the fruite of all well thinking minds, vertue the highest good, vertue the highest good the hi. {repeat} reason the fire wherein mens thoughts bee proou'd, wherein mens th. {repeat} are from the world by Natures power by natures power bereft and in one creature for her glorie left for her glorie left, and in one creature for her glorie left and in one creature for her {repeat} and in one creature for her glorie her glorie left for her glorie left.</p>
+               </div>
+               <div n="2" type="song">
+                  <pb facs="tcp:177256:62"/>
+                  <head>Of <hi>5.</hi> second Part. <hi>2</hi> Bassus.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">B</seg>Eautie her couer is the eyes true pleasure, In honours fame In honours fame shee liues, In honours {repeat} In honours sa. {repeat} shee liues, The cares sweete Musicke sweete sweete Musicke excesse of wonder growes from her true measure, true measure, excesse of wonder growes from her true measure, her worth is pas╌si╌ons wound is passions wound, and passions Physicke, from her true heart, from her true heart cleere springs of wisedome flow, men know which Imag'd in her words and deeds men know, men know which Imag'd in her words and deeds men know men know her words and deeds men know.</p>
+               </div>
+               <div n="3" type="song">
+                  <pb facs="tcp:177256:62"/>
+                  <head>Of <hi>5.</hi> third Part. <hi>3</hi> Bassus.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">T</seg>Ime, The heauens know their owne and doe maintaine her Delight loue reason vertue let it bee, but onely shee delight loue reason vertue let it bee, But onely shee.</p>
+               </div>
+               <div n="4" type="song">
+                  <pb facs="tcp:177256:63"/>
+                  <head>Of <hi>5.</hi> first Part. <hi>4</hi> Bassus.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">M</seg>Ore then most faire full of all heauenly fire, kindled aboue kindled aboue to shew the makers glorie beauties first borne beauties first {repeat} first borne beauties first borne in whom all powers conspire conspire to write the Graces life to write the {repeat} to write the graces life and muses storie. If in my heart. All Nymphes else bee de╌fa╌ced, all Nymphes else bee defaced, honour the shrine, honour the shrine, honour {repeat} honour the shrine, where you alone are placed, where you alone are placed are placed. If in my heart.</p>
+               </div>
+               <div n="5" type="song">
+                  <pb facs="tcp:177256:63"/>
+                  <head>Of <hi>5.</hi> second Part. <hi>5</hi> Bassus.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">T</seg>Hou window of the skie thou win. {repeat} and pride of spirrits true Charracter of honour in perfection, Thou heauenly creature thou heauen {repeat} Iudge of earthly merrits and glorious prison of mens pure affection of mens p. {repeat} of mens {repeat} If in my heart. All Nymphes else bee de╌fa╌ced, all Nymphs else bee defaced, honour the shrine honour the {repeat} honor th. {repeat} honor the shrine, where you alone are placed where you alone are placed are placed alone are placed.</p>
+               </div>
+               <div n="6" type="song">
+                  <pb facs="tcp:177256:64"/>
+                  <head>Of <hi>5.</hi> first Part. <hi>6</hi> Bassus.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">Y</seg>Ou little starres, And glorie in <hi>Appollos</hi> glorie, The heauens will and Natures storie, you o╌uer o╌uer╌rule you o╌uer o╌uer╌rule you o╌uer╌rule your force by loue.</p>
+               </div>
+               <div n="7" type="song">
+                  <pb facs="tcp:177256:64"/>
+                  <head>Of <hi>5.</hi> second Part. <hi>7</hi> Bassus.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">A</seg>Nd thou O loue, And made them Saints in beauties skies where ioyes are shadowes of perfection, lend mee thy wings, that I may rise vp not by worth not by worth, but thy Election, for I haue vow'd in strangest in strangest fashion, and neuer reuer {repeat} {repeat} seeke compassion, and neuer neuer {repeat} {repeat} {repeat} {repeat} seeke compassion, lend mee thy wings, that I may rise vp not by worth not by {repeat} but thy Election, for I haue vow'd in strangest in strangest fashion, and ne╌uer ne╌uer {repeat} {repeat} seeke, and ne╌uer ne╌uer {repeat} {repeat} {repeat} {repeat} seeke compassion.</p>
+               </div>
+               <div n="8" type="song">
+                  <pb facs="tcp:177256:65"/>
+                  <head>Of <hi>5.</hi> first Part. <hi>8</hi> Bassus.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">O</seg> Loue, O loue thou mortall speare thou mortall speare of powers de╌uine, The Parradice of nature in perfection what make thee thus thy kingdome vndermine vndermine vndermine, vayling thy glories vnder woes reflection tyrrannie counsaile out of feare doth borrow counsaile out of feare counsaile out of feare doth borrow to thinke, her kingdome safe to thinke her kingdome safe, to thinke her kingdome safe her kingdome safe in feare, in feare and sorrow.</p>
+                  <p>2. da. part.</p>
+               </div>
+               <div n="9" type="song">
+                  <pb facs="tcp:177256:65"/>
+                  <head>Of <hi>5.</hi> second Part. <hi>9</hi> Bassus.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">I</seg>F I by Nature wonder, If I by Nature wonder and delight had not sworne all my powers to worship thee, Iustly mine owne reuenge re<g ref="char:EOLhyphen"/>ceaue I might receaue I might, and see thee tyerante suf╌fer tyrrannie thee tyerant suffer tyrrannie, thee suffer tyrrannie see thee thy selfe see thee thy selfe dispaire, dispaire and sorrow breeding, vnder the wounds of woe and wounds of woe and sorrow bleeding bleeding.</p>
+               </div>
+               <div n="10" type="song">
+                  <pb facs="tcp:177256:66"/>
+                  <head>Of <hi>5. 10</hi> Bassus.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <hi>
+                        <seg rend="decorInit">C</seg>Vpid</hi> kiss<gap reason="illegible" resp="#uom" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> mee sweet ladde beshrow her for denying such rude denyals doe make children theeuish That boyes must bee restrained, Are her faire brests, made daintie to bee hidden are her faire brests made daintie to bee hidden, Is beauties pride is beauties pride in In╌no╌cense betraying. Giue me a╌ blow, let mee thy quiuer borrow and shee shall play the child, and shee shall {repeat} with loue or sorrow. Giue mee a blow.</p>
+               </div>
+               <div n="11" type="song">
+                  <pb facs="tcp:177256:66"/>
+                  <head>Of <hi>5. 11</hi> Bassus.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">L</seg>Oue is the peace, End of the good, end of the good, end of the good, Goddesse of the mind, desire griefe and feare, In the flect refind, which of the ioyes the ioyes to come, doth witnesse beare which of the ioyes to come doth witnesse beare which of the ioyes the ioyes to come doth witnesse, beare doth witnesse beare. Goddesse of the.</p>
+               </div>
+               <div n="12" type="song">
+                  <pb facs="tcp:177256:67"/>
+                  <head>Of <hi>5. 12</hi> Bassus.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">S</seg>Elfe pitties teares selfe pitties teares selfe pit. {repeat} selfe pitties teares selfe pitties teares wherein my hope lyes drownd sighes from thoughts from thoughts fire, were my desires languish dispaire by humble loue of beauie crownd by loue of beautie crownd, furrowes not worne by Time, furrowes not worne by time but wheeles of anguish, but wheeles of anguish Drie vp, smile ioye make smooth and see smile ioye make smooth and see make smooth and see, furrowes dispaires sighes teares in beautie be, furrows dispayres sighes, furrowes dis. {repeat} teares in beautie bee. Drie vp.</p>
+               </div>
+               <div n="13" type="song">
+                  <pb facs="tcp:177256:67"/>
+                  <head>Of <hi>5. 13</hi> Bassus.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">W</seg>As euer man, with prettie stealths he makes me laugh and wonder, doe long to play and toye as well as hee, and with one humour cannot long long agree, O sweete eyes furie turnes into loue into loue of that that that of that that that I see furie turnes into loue into loue of that that that I see, If these mad changes doe make children Gods woemen and children woemen and children, woemen and children are not farre at odds woemen and children are not farre not farre at odds. If these mad changes.</p>
+               </div>
+               <div n="14" type="song">
+                  <head>Of <hi>5. 14</hi> Bassus.</head>
+                  <pb facs="tcp:177256:68"/>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>O False, and treacherous pro<g ref="char:EOLhyphen"/>ba╌bi╌litie, Enemie of truth, ene╌mie of truth, and friend to wickednesse, with bleere eyed opinion learne to see to see to see, truths feeble pittie pittie here and barrennesse, when thou hast thus, when th. {repeat} misled humanitie, and lost obedience in the pride of wit, with reason darst thou Iudge the dei╌tie, and in thy flesh make bold to fashion it. Vaine thought the word of power a riddle is and till the vailes bee rent the flesh new borne, Reueales no wonders of that inward blisse
+<pb facs="tcp:177256:68"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>euerie where finds scorne, who therefore censures God with fleshly sprite with fleshly sprite, as well in time in time, vp infinite. who therefore.</p>
+               </div>
+               <div n="15" type="song">
+                  <pb facs="tcp:177256:68"/>
+                  <head>Of <hi>5.</hi> first Part. <hi>15</hi> Bassus.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">M</seg>An dreame no more. Or hels eternall shade, For Gods workes are like him all Infinite and curious curious search but craftie sinnes delight.</p>
+                  <p>2 da. pars.</p>
+               </div>
+               <div n="16" type="song">
+                  <pb facs="tcp:177256:69"/>
+                  <head>Of <hi>5.</hi> second Part. <hi>16</hi> Bassus.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">T</seg>He flood that did, Thy wicked heart that Christ may come and all those types depart.</p>
+                  <p>3 cla. pars.</p>
+               </div>
+               <div type="song">
+                  <head>Of <hi>5.</hi> third Part.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">T</seg>Hat all is cleere, when thou the dust hast shaken from thy feete, doth in thy flesh appeare, Then Seas with streames, Aboue the skie doe meete. For God doth onely goodnesse for God doth only goodnesse comprehend, knowes what was first, knowes what was first, knowes what was first and what shall bee the end. For God doth.</p>
+               </div>
+               <div n="17" type="song">
+                  <pb facs="tcp:177256:69"/>
+                  <head>Of <hi>5.</hi> first Part. <hi>17</hi> Bassus.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">W</seg>Ho trusts for trust who trusts for trust, or hopes of loue for loue for loue or who belou'd, In <hi>Cupids</hi> lawes doth glorie in <hi>Cupids</hi> lawes {repeat} who ioyes in vowes or vowes not to remooue, or vowes not to remooue, who by this light God hath not beene made sorrie let him see mee see mee let him see mee see mee Eclipsed from my son with shadowes of an earth with sha<g ref="char:EOLhyphen"/>dowes of an earth quite ouer╌run, who by this light God hath not beene made sorrie let him see mee see mee let him see mee see mee Eclipsed from my son with shadowes of an earth with shadowes of an earth quite ouer╌run with shadowes of an earth with shadowes of an earth quite ouer╌run quite ouer╌runne.</p>
+               </div>
+               <div n="18" type="song">
+                  <pb facs="tcp:177256:70"/>
+                  <head>Of <hi>5.</hi> second Part. <hi>18</hi> Bassus.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">W</seg>Ho thinks that sorrowes felt, de╌sires hid de╌sire, hidden or humble faith with constant honour Armed, Can keepe loue from the fruite from the fruite, can kee. {repeat} from the fruite can keepe loue from the fruit that is forbidden, Change I doe meane by no faith to bee charmed by no faith to bee charmed, looking on mee, looking on me, let him know loues delights, let him know loues {repeat} are treasures hid in Caues but kept with sprites let him know that loues delights, are treasures hid in Caues but kept with spirites but kept with sprites. Let him know.</p>
+               </div>
+               <div n="19" type="song">
+                  <pb facs="tcp:177256:70"/>
+                  <head>Of <hi>5. 19</hi> Bassus.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">M</seg>An dreame no more of curious mysteries, as what was here before, as what was here before the world was made the world was made, the first mans life, the first mans life the state the state of P<gap reason="illegible" resp="#uom" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rradi<gap reason="illegible" resp="#uom" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e where heauen is where heauen is, where heauen is or hels eternall shade eternall shade. For Gods workes are like him like him all Infinite for Gods workes are like him all Infinite and curious search but craftie sinnes delight but craftie sinnes delight. For.</p>
+               </div>
+               <div n="20" type="song">
+                  <pb facs="tcp:177256:71"/>
+                  <head>Of <hi>5. 20</hi> Bassus.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">F</seg>Arewell sweet boye complaine not of my truth for to thy boyes play I gaue all my youth, young master I did hope for your promotion Princes thoughts obseruing the child of paine and anguish others Iudged inward good a chiefe deseruing I in thy wanton visions ioyed to languish I in thy wanton visions ioyd to languish. But <hi>Cupid</hi> now fare╌ wel farewel farewel I wil goe play me with thoghts that please me lesse and lesse betray mee. But <hi>Cupid.</hi>
+                  </p>
+               </div>
+               <div n="21" type="song">
+                  <pb facs="tcp:177256:71"/>
+                  <head>Of <hi>5. 21</hi> Bassus.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">V</seg>Nder a Throne I saw a virgine fit the red and white rose the red and white rose quartred in her face starre of the North, starre of the north and for true gards to it Church Princes state all pointing out her Grace Church Princes states all pointing out her grace Church Princes states all pointing out her Grace. The homage done her was not borne of wit feare did admire did admire feare did admire, zeale tooke ambitions place, state in her eyes, state in her eyes, taught order how to fit and fixe conclusions, and fixe con. {repeat} vnobseruing race Fortune can here claime nothing truely great but that this Princely creature is her seate. But that this prin. {repeat} is her seate.</p>
+               </div>
+               <div n="22" type="song">
+                  <pb facs="tcp:177256:72"/>
+                  <head>Of <hi>5</hi> first Part. <hi>22</hi> Bassus.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">W</seg>Here shall a sorrow. No though thy <hi>Sidney</hi> had suruiu'd his friend had suruiu'd his friend suruiu'd his friend. Dead noble <hi>Brooke.</hi>
+                  </p>
+                  <p>2.da. pars.</p>
+               </div>
+               <div n="23" type="song">
+                  <head>Second Part. <hi>23</hi>
+                  </head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>wayling an old mans fate wayling an old mans fate as if in pride and heate of youth hee had vntimely vntimely dy'd.</p>
+               </div>
+               <div n="24" type="song">
+                  <pb facs="tcp:177256:72"/>
+                  <head>Of <hi>6.</hi> first Part. <hi>24</hi> Bassus.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">W</seg>Here shall a sorrow, Great enough bee sought, for this sad ruine which the fates haue wrought vnlesse the fates themselues should weepe, vnlesse the fates {repeat} and wish their curblesse powers had beene controld in this for thy losse worthiest Lord. No mourning mourning eye has flood enough, no Muse nor El╌le╌gie, enough expression to thy worth can lend, No though thy <hi>Sidney</hi> had suruiu'd his friend, no though thy <hi>Sidney</hi> had suruiu'd his friend, no though thy <hi>Sidney</hi> had suruiu'd his friend.</p>
+               </div>
+               <div n="25" type="song">
+                  <pb facs="tcp:177256:73"/>
+                  <head>Of <hi>6.</hi> second Part. <hi>25</hi> Bassus.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">D</seg>Ead dead noble <hi>Brooke</hi> shall bee to vs a name of griefe and honour still of griefe and honour honour still, whose deathlesse fame, such vertue purchased, as makes vs to bee, as makes vs to bee vniust to nature, vniust to nature in lamenting thee, vniust to nature vniust to {repeat} in la<g ref="char:EOLhyphen"/>menting thee wayling an old mans fate, as if in pride and heate of youh hee had vntimely dy'd, as if in pride and heate of youth hee had vntimely dy'd vntimely dy'd.</p>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:177256:73"/>
+                  <p>ORGAN Part.</p>
+                  <p>MOTTECTS OR GRAVE CHAMBER MVSIQVE.</p>
+                  <p>Containing Songs of fiue parts of seue<g ref="char:EOLhyphen"/>rall sorts, some ful, and some Verse and Chorus.</p>
+                  <p>But all fit for Ʋoyces and Ʋials, with an Organ Part; which for want of Organs, may be performed on VIRGINALS, BASE-LVTE, BANDORA, or IRISH HARPE.</p>
+                  <p>ALSO, A Mourning Song of sixe parts for the Death of the late Right Honorable Sir <hi>FVLKE GREVIL,</hi> Knight of the Honourable order of the Bath, Lord Brooke, Baron Brooke of Beauchamps-Court in the Countie of Warwicke, and of his Maiesties most honourable priuie Councell, &amp;c.</p>
+                  <p>Composed according to the Rules of Art, By <hi>M. P.</hi> Batcheler of MVSIQVE.</p>
+                  <p>LONDON, Printed by WILLIAM STANSBY. 1630.</p>
+               </div>
+               <div type="illustration">
+                  <pb facs="tcp:177256:74"/>
+                  <p>
+                     <figure>
+                        <figDesc>crest presumably of Robert Greville (1608-1643), Baron Brooke of Beauchamps-Court, Warwick</figDesc>
+                        <head>VIX EA NOSTRA VOCO</head>
+                     </figure>
+                  </p>
+               </div>
+               <div type="dedication">
+                  <pb facs="tcp:177256:74"/>
+                  <head>TO THE RIGHT HONOV<g ref="char:EOLhyphen"/>RABLE, ROBERT LORD Brooke Baron Brooke of Beauchamps-Court in the Countie of WARWICKE.</head>
+                  <opener>
+                     <salute>Right Honourable my singuler good Lord,</salute>
+                  </opener>
+                  <p>
+                     <seg rend="decorInit">T</seg>He words which I make bold at present to publish in Musicall compositions, were recommended by your Noble Predeces<g ref="char:EOLhyphen"/>sor; and of right belong vnto you Lord<g ref="char:EOLhyphen"/>ship, because inheritor, no lesse of his sin<g ref="char:EOLhyphen"/>guler Vertues, then Honours, and Pa<g ref="char:EOLhyphen"/>tron (as his Lordship euer was) both of my Person; and Profession; the best Ma<g ref="char:EOLhyphen"/>sters whereof, will alwayes record his Lord<g ref="char:EOLhyphen"/>ships most generous affections, and incouragements: My selfe (vnder reformation) may rise one Note higher, and presume; that if that blessed spirit of his now in heauen) holdeth any memorie and intelligence of hu<g ref="char:EOLhyphen"/>maine actions, it is of that heauen vpon earth, which it found here, in Musicke and Harmonicall proportions, the being whereof is beyond Mortalitie and regulates the whole frame of nature in her being and Motions. Wherefore your Lordship will be pleased to take in good part the worke it selfe, as also the feruent desires I haue to doe (Both) your Lordships that duetie and seruice which I owe, and shall euer heartily acknowledge, being</p>
+                  <closer>
+                     <signed>Your Lordships most humble and most faithfull Seruant, MARTIN PEERSON.</signed>
+                  </closer>
+               </div>
+            </front>
+            <body>
+               <div n="1" type="song">
+                  <pb facs="tcp:177256:75"/>
+                  <head>Of <hi>5.</hi> first Part. <hi>1</hi> Organ Part.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>Loue the delight.
+<pb facs="tcp:177256:75"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div n="2" type="song">
+                  <pb facs="tcp:177256:76"/>
+                  <head>Of <hi>5.</hi> second Part. <hi>2</hi> Organ Part.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>Beautie,
+<pb facs="tcp:177256:76"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div n="3" type="song">
+                  <pb facs="tcp:177256:76"/>
+                  <head>Of <hi>5.</hi> third Part. <hi>3</hi> Organ Part.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>Time, Vers. Cho:</p>
+               </div>
+               <div n="4" type="song">
+                  <pb facs="tcp:177256:77"/>
+                  <head>Of <hi>5.</hi> first Part. <hi>4.</hi> Organ Part.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>More then most faire,</p>
+               </div>
+               <div n="5" type="song">
+                  <pb facs="tcp:177256:77"/>
+                  <head>Of <hi>5.</hi> second Part. <hi>5.</hi> Organ Part.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>Thou window,</p>
+               </div>
+               <div n="6" type="song">
+                  <pb facs="tcp:177256:78"/>
+                  <head>Of <hi>5.</hi> first Part. <hi>6.</hi> Organ Part.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>You little starres. Vers. Cho.</p>
+                  <p>2. da. pars.</p>
+               </div>
+               <div n="7" type="song">
+                  <pb facs="tcp:177256:78"/>
+                  <head>Of <hi>5.</hi> second Part. <hi>7.</hi> Organ Part.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>And thou, Vers. Cho. Vers.
+<pb facs="tcp:177256:78"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>Cho.</p>
+               </div>
+               <div n="8" type="song">
+                  <pb facs="tcp:177256:79"/>
+                  <head>Of <hi>5.</hi> first Part. <hi>8.</hi> Organ Part.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>O <hi>Loue.</hi>
+                  </p>
+               </div>
+               <div n="9" type="song">
+                  <pb facs="tcp:177256:79"/>
+                  <head>Of <hi>5.</hi> second Part. <hi>9.</hi> Organ Part.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>If I by nature,</p>
+               </div>
+               <div n="10" type="song">
+                  <pb facs="tcp:177256:80"/>
+                  <head>Of <hi>5. 10.</hi> Organ Part.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>Cupid. Vers. Cho. Vers Cho. Vers. Cho. Vets.
+<pb facs="tcp:177256:80"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>Cho.</p>
+               </div>
+               <div n="11" type="song">
+                  <pb facs="tcp:177256:80"/>
+                  <head>Of <hi>5. 11.</hi> Organ Part.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>Loue. Vers. Cho.</p>
+               </div>
+               <div n="12" type="song">
+                  <pb facs="tcp:177256:81"/>
+                  <head>
+                     <hi>12.</hi> Organ Part.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>Selfe pitties teares, </p>
+               </div>
+               <div n="13" type="song">
+                  <pb facs="tcp:177256:81"/>
+                  <head>
+                     <hi>13.</hi> Organ Part.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>Vers. Was euer man. Vers. Vers. Cho. </p>
+               </div>
+               <div n="14" type="song">
+                  <pb facs="tcp:177256:82"/>
+                  <head>Of <hi>5. 14.</hi> Organ Part.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>O false. Vers. Cho. Vers. Cho. Vers, Cho.
+<pb facs="tcp:177256:82"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>Vers. Cho </p>
+               </div>
+               <div n="15" type="song">
+                  <pb facs="tcp:177256:83"/>
+                  <head>Of <hi>5.</hi> first Part. <hi>15.</hi> Organ Part.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>Man dreame no more, Vers. Cho</p>
+               </div>
+               <div type="song">
+                  <head>Of <hi>5.</hi> Third part. Organ Part.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>When thou. Vers. Cho.
+<pb facs="tcp:177256:83"/>
+                  </p>
+               </div>
+               <div n="16" type="song">
+                  <pb facs="tcp:177256:83"/>
+                  <head>Of <hi>5.</hi> second Part. <hi>16.</hi> Organ Part.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>The flood. Vers Cho. Vers. Cho.</p>
+               </div>
+               <div n="17" type="song">
+                  <pb facs="tcp:177256:84"/>
+                  <head>Of <hi>5.</hi> first Part. <hi>17.</hi> Organ Part.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>Who trusts for.
+<pb facs="tcp:177256:84"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div n="18" type="song">
+                  <pb facs="tcp:177256:85"/>
+                  <head>Of <hi>5.</hi> second Part. <hi>18.</hi> Organ Part.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>Who thinkes.
+<pb facs="tcp:177256:85"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div n="19" type="song">
+                  <pb facs="tcp:177256:86"/>
+                  <head>Of <hi>5. 19</hi> Organ Part.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>Man dreame no more.
+<pb facs="tcp:177256:86"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div n="20" type="song">
+                  <pb facs="tcp:177256:87"/>
+                  <head>Of <hi>5. 20.</hi> Organ Part.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>Farewell sweete boye. Vers. Vers. Cho. Vers
+<pb facs="tcp:177256:87"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>Cho. Cho. </p>
+               </div>
+               <div n="21" type="song">
+                  <pb facs="tcp:177256:88"/>
+                  <head>Of <hi>5. 21.</hi> Organ Part.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>Vnder a throne,</p>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>2. da pars.
+<pb facs="tcp:177256:88"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div n="22" type="song">
+                  <pb facs="tcp:177256:89"/>
+                  <head>Of <hi>5.</hi> first Part. <hi>22.</hi> Organ Part.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>Where shall a sorrow. Cho.</p>
+               </div>
+               <div n="23" type="song">
+                  <pb facs="tcp:177256:89"/>
+                  <head>Of <hi>5.</hi> second Part. <hi>23.</hi> Organ Part.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>Dead. Cho.</p>
+               </div>
+               <div n="24" type="song">
+                  <pb facs="tcp:177256:90"/>
+                  <head>Of <hi>6.</hi> first Part. <hi>24.</hi> Organ Part.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>Where shall a sorrow.
+<pb facs="tcp:177256:90"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+                  <p>2.d. pars.</p>
+               </div>
+               <div n="25" type="song">
+                  <pb facs="tcp:177256:91"/>
+                  <head>Of <hi>6.</hi> second Part. <hi>25.</hi> Organ Part.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>Dead.
+<pb facs="tcp:177256:91"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </body>
+            <back>
+               <div type="table_of_contents">
+                  <pb facs="tcp:177256:92"/>
+                  <head>THE TABLE.</head>
+                  <list>
+                     <item>
+                        <hi>1.</hi> LOue the delight <hi>1.</hi> part.</item>
+                     <item>
+                        <hi>2.</hi> Beautie. <hi>2.</hi> part.</item>
+                     <item>
+                        <hi>3.</hi> Time. <hi>3.</hi> part.</item>
+                     <item>
+                        <hi>4.</hi> More then most faire. <hi>1.</hi> part.</item>
+                     <item>
+                        <hi>5.</hi> Thou Window. <hi>2.</hi> part.</item>
+                     <item>
+                        <hi>6</hi> You little Starres. <hi>1.</hi> part.</item>
+                     <item>
+                        <hi>7</hi> And thou O Loue. <hi>2.</hi> part.</item>
+                     <item>
+                        <hi>8</hi> O Loue. <hi>1.</hi> part.</item>
+                     <item>
+                        <hi>9</hi> If I by Nature. <hi>2.</hi> part.</item>
+                     <item>
+                        <hi>10 Cupid.</hi>
+                     </item>
+                     <item>
+                        <hi>11</hi> Loue.</item>
+                     <item>
+                        <hi>12</hi> Selfe pitties teares.</item>
+                     <item>
+                        <hi>13</hi> Was euer man.</item>
+                     <item>
+                        <hi>14</hi> O false and treacherous. <hi>2.</hi> Bases.</item>
+                     <item>
+                        <hi>15</hi> Man dreame no more. <hi>1.</hi> part.</item>
+                     <item>
+                        <hi>16.</hi> The floud. <hi>2.</hi> part.</item>
+                     <item>
+                        <hi>17</hi> Who trusts for trust. <hi>1.</hi> part.</item>
+                     <item>
+                        <hi>18</hi> Who thinkes. <hi>2.</hi> part.</item>
+                     <item>
+                        <hi>19</hi> Man dreame no more</item>
+                     <item>
+                        <hi>20</hi> Farewell sweet Boy.</item>
+                     <item>
+                        <hi>21</hi> Vnder a throne.</item>
+                     <item>
+                        <hi>22</hi> Where shall a sorrow. <hi>1.</hi> part.</item>
+                     <item>
+                        <hi>23</hi> Dead. <hi>2.</hi> part.</item>
+                     <item>
+                        <hi>24</hi> Where shall a sorrow. <hi>1.</hi> part. of <hi>6.</hi>
+                     </item>
+                     <item>
+                        <hi>25</hi> Dead. <hi>2.</hi> part. of <hi>6.</hi>
+                     </item>
+                  </list>
+                  <pb facs="tcp:177256:92"/>
+               </div>
+            </back>
+         </text>
+      </group>
+   </text>
+</TEI>
